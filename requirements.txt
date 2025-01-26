@@ -1,0 +1,6 @@
+Flask==3.1.0
+google-genai==0.6.0
+gunicorn==23.0.0
+mesop==0.14.1
+pydantic==2.10.5
+websockets==14.2

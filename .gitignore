@@ -1,0 +1,16 @@
+# System
+.DS_Store
+
+# Python
+__pycache__
+
+# VS Code
+*.code-workspace
+.pytest_cache
+
+# Dyad
+.dyad
+
+# App
+.env
+data
