@@ -62,10 +62,11 @@ like this
 
 Here are some screenshots of the UI.
 
-### Jeopardy board
+### Initial game board
 
-<img width="1312" alt="Jeopardy" src="https://github.com/richard-to/mesop-jeopardy/assets/539889/bc27447d-129f-47ae-b0b1-8f5c546762ed">
+<img width="1312" alt="Screenshot 2025-01-26 at 2 03 35 PM" src="https://github.com/user-attachments/assets/329b07c9-7695-4e7a-92be-54f5f6948be2" />
 
 ### Jeopardy answer
 
-<img width="1312" alt="Jeopardy Answer Modal" src="https://github.com/richard-to/mesop-jeopardy/assets/539889/46bbe312-8cf3-4ff7-8271-49692bd75dec">
+<img width="1312" alt="Screenshot 2025-01-26 at 2 04 05 PM" src="https://github.com/user-attachments/assets/97d704e1-6df6-4a05-8a77-8e91363295fa" />
+
