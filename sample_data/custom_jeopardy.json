@@ -1,0 +1,3827 @@
+[
+  {
+    "question": "What is Tikal?",
+    "answer": "This ancient city, rediscovered in 1911, was a thriving center of Mayan civilization. ",
+    "value": "$200",
+    "category": "Ancient Mysteries",
+    "air_date": "2025-01-26",
+    "show_number": "1505",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the Moai?",
+    "answer": "These massive stone statues on Easter Island are shrouded in mystery regarding their creation and purpose.",
+    "value": "$400",
+    "category": "Ancient Mysteries",
+    "air_date": "2025-01-26",
+    "show_number": "1505",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Troy?",
+    "answer": "Located in present-day Turkey, this city's fate is still debated by archaeologists; was it destroyed by an earthquake or war?",
+    "value": "$600",
+    "category": "Ancient Mysteries",
+    "air_date": "2025-01-26",
+    "show_number": "1505",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the Nazca Lines?",
+    "answer": "These enigmatic lines etched into the Nazca desert in Peru have baffled researchers for decades, with theories ranging from astronomical charts to landing strips for extraterrestrial spacecraft.",
+    "value": "$800",
+    "category": "Ancient Mysteries",
+    "air_date": "2025-01-26",
+    "show_number": "1505",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Roanoke?",
+    "answer": "The disappearance of this colony in 1590 remains one of history's most enduring mysteries, with many theories proposed, ranging from native attacks to assimilation into native tribes.",
+    "value": "$1000",
+    "category": "Ancient Mysteries",
+    "air_date": "2025-01-26",
+    "show_number": "1505",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is an acoustic trap?",
+    "answer": "This device, seemingly straight out of science fiction, uses focused sound waves to levitate and manipulate small objects.",
+    "value": "$200",
+    "category": "Science Fiction in Reality",
+    "air_date": "2025-01-26",
+    "show_number": "211",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is optical fiber communication?",
+    "answer": "Once a staple of science fiction, this technology uses light to transmit data at incredibly high speeds, now becoming increasingly common in modern technology.",
+    "value": "$400",
+    "category": "Science Fiction in Reality",
+    "air_date": "2025-01-26",
+    "show_number": "211",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is maglev transportation?",
+    "answer": "Often depicted in science fiction as a futuristic form of transportation, this concept involves using magnetic fields to propel vehicles at high speeds, with working prototypes already in development.",
+    "value": "$600",
+    "category": "Science Fiction in Reality",
+    "air_date": "2025-01-26",
+    "show_number": "211",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is natural language processing?",
+    "answer": "This technology, central to many science fiction narratives, is already being developed in various forms, enabling computers to understand and respond to human speech and language.",
+    "value": "$800",
+    "category": "Science Fiction in Reality",
+    "air_date": "2025-01-26",
+    "show_number": "211",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is 3D printing?",
+    "answer": "Frequently featured in science fiction, this technology is now a reality; allowing for the creation of advanced prosthetics, intricate organs, and miniature devices.",
+    "value": "$1000",
+    "category": "Science Fiction in Reality",
+    "air_date": "2025-01-26",
+    "show_number": "211",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a bedroom?",
+    "answer": "This word, from Old French, means \"a place to sleep,\"  but today it refers to a room in a house.",
+    "value": "$200",
+    "category": "Word Origins",
+    "air_date": "2025-01-26",
+    "show_number": "1107",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is sine die?",
+    "answer": "From the Latin \"sine die,\" meaning \"without a day,\" this word describes something that has been postponed indefinitely.",
+    "value": "$400",
+    "category": "Word Origins",
+    "air_date": "2025-01-26",
+    "show_number": "1107",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is abbreviate?",
+    "answer": "Meaning \"to cut short,\" this word comes from the Old French phrase \"abbrevier,\" which combined the Latin \"brevis\" (short) with a prefix.",
+    "value": "$600",
+    "category": "Word Origins",
+    "air_date": "2025-01-26",
+    "show_number": "1107",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is calligraphy?",
+    "answer": "Ultimately from the Greek \"kakos\" (bad) and \"graphein\" (to write), this word describes bad handwriting.",
+    "value": "$800",
+    "category": "Word Origins",
+    "air_date": "2025-01-26",
+    "show_number": "1107",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is king?",
+    "answer": "From the Old English \"cyning,\" this word designates a male monarch.",
+    "value": "$1000",
+    "category": "Word Origins",
+    "air_date": "2025-01-26",
+    "show_number": "1107",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who famously said these words before the Battle of Thermopylae?",
+    "answer": "\u201cMy only regret is that I have but one life to lose for my country.\u201d",
+    "value": "$200",
+    "category": "Famous Last Words",
+    "air_date": "2025-01-26",
+    "show_number": "31",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What humorous words were supposedly said by this Black Knight in *Monty Python and the Holy Grail* after losing a limb?",
+    "answer": "\u201cDon\u2019t worry, it\u2019s just a flesh wound.\u201d",
+    "value": "$400",
+    "category": "Famous Last Words",
+    "air_date": "2025-01-26",
+    "show_number": "31",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What were the last words of this mob boss in the movie *The Godfather Part II*",
+    "answer": "\u201cIs this the end of Rico?\u201d",
+    "value": "$600",
+    "category": "Famous Last Words",
+    "air_date": "2025-01-26",
+    "show_number": "31",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What were these words famously said by many athletes after winning the Super Bowl or other major sporting events?",
+    "answer": "\u201cI\u2019m going to Disney World!\u201d",
+    "value": "$800",
+    "category": "Famous Last Words",
+    "air_date": "2025-01-26",
+    "show_number": "31",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "From what famous play is this quote, a reflection on death, by Hamlet?",
+    "answer": "\u201cAlas, poor Yorick! I knew him, Horatio: a fellow of infinite jest, of most excellent fancy\u2026\u201d",
+    "value": "$1000",
+    "category": "Famous Last Words",
+    "air_date": "2025-01-26",
+    "show_number": "31",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Beethoven?",
+    "answer": "This Austrian composer defied 18th-century conventions with his dramatic, emotionally charged music.",
+    "value": "$200",
+    "category": "Musical Revolutionaries",
+    "air_date": "2025-01-26",
+    "show_number": "1066",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Schoenberg?",
+    "answer": "This composer's innovative use of dissonance and atonality shattered traditional musical structures in the early 20th century.",
+    "value": "$400",
+    "category": "Musical Revolutionaries",
+    "air_date": "2025-01-26",
+    "show_number": "1066",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who are The Beatles?",
+    "answer": "The Beatles' groundbreaking work in the 1960s, blending rock and roll with diverse influences, revolutionized popular music.",
+    "value": "$600",
+    "category": "Musical Revolutionaries",
+    "air_date": "2025-01-26",
+    "show_number": "1066",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Philip Glass?",
+    "answer": "This American composer's minimalist style, characterized by repetitive patterns and gradual change, redefined contemporary classical music.",
+    "value": "$800",
+    "category": "Musical Revolutionaries",
+    "air_date": "2025-01-26",
+    "show_number": "1066",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is punk rock?",
+    "answer": "This genre, emerging in the 1970s, fused elements of punk, funk, and reggae, challenging musical norms with its rebellious energy and DIY ethos.",
+    "value": "$1000",
+    "category": "Musical Revolutionaries",
+    "air_date": "2025-01-26",
+    "show_number": "1066",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is French cuisine?",
+    "answer": "This cuisine, known for its rich sauces and use of cream, butter, and wine, originated in France.",
+    "value": "$200",
+    "category": "World Cuisine",
+    "air_date": "2025-01-26",
+    "show_number": "639",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a Moroccan tagine?",
+    "answer": "From the country of Morocco, this tagine is a slow-cooked stew often including lamb, chicken, or vegetables.",
+    "value": "$400",
+    "category": "World Cuisine",
+    "air_date": "2025-01-26",
+    "show_number": "639",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Kaiseki?",
+    "answer": "This type of Japanese cuisine features small, carefully prepared dishes, often served in multiple courses.",
+    "value": "$600",
+    "category": "World Cuisine",
+    "air_date": "2025-01-26",
+    "show_number": "639",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is dough/pasta?",
+    "answer": "A staple in many cuisines, this dough-based food can be folded, rolled, or stuffed, and is found in many forms, from pizza to dumplings.",
+    "value": "$800",
+    "category": "World Cuisine",
+    "air_date": "2025-01-26",
+    "show_number": "639",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Thai cuisine?",
+    "answer": "This Southeast Asian cuisine, popular in Thailand, often features coconut milk, fish sauce, lemongrass, and chilies.",
+    "value": "$1000",
+    "category": "World Cuisine",
+    "air_date": "2025-01-26",
+    "show_number": "639",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Tikal?",
+    "answer": "This ancient city, rediscovered in the 19th century, was once a thriving center of the Mayan civilization.",
+    "value": "$200",
+    "category": "Hidden History",
+    "air_date": "2025-01-26",
+    "show_number": "1754",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Tutankhamun?",
+    "answer": "Hidden beneath the sands of Egypt for centuries, this boy pharaoh's tomb was discovered in 1922.",
+    "value": "$400",
+    "category": "Hidden History",
+    "air_date": "2025-01-26",
+    "show_number": "1754",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Machu Picchu?",
+    "answer": "This lost city of the Incas, high in the Andes Mountains, remained hidden for centuries until its rediscovery in 1911.",
+    "value": "$600",
+    "category": "Hidden History",
+    "air_date": "2025-01-26",
+    "show_number": "1754",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Angkor Wat complex?",
+    "answer": "For over 1,000 years, this vast network of roads, canals, and settlements remained largely unknown until its discovery in the 20th century.",
+    "value": "$800",
+    "category": "Hidden History",
+    "air_date": "2025-01-26",
+    "show_number": "1754",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who are the Hittites?",
+    "answer": "This ancient civilization, once thought to be purely mythical, is now known to have existed, thanks to the discovery of evidence in modern-day Turkey.",
+    "value": "$1000",
+    "category": "Hidden History",
+    "air_date": "2025-01-26",
+    "show_number": "1754",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This rainforest, the world\u2019s largest, covers much of the northern part of South America.",
+    "answer": "What is the Amazon rainforest?",
+    "value": "$200",
+    "category": "Nature's Superlatives",
+    "air_date": "2025-01-26",
+    "show_number": "574",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Stretching over 2,300 kilometers, this is the world\u2019s largest coral reef system.",
+    "answer": "What is the Great Barrier Reef?",
+    "value": "$400",
+    "category": "Nature's Superlatives",
+    "air_date": "2025-01-26",
+    "show_number": "574",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "At 8,848.86 meters above sea level, this mountain is the Earth\u2019s highest peak.",
+    "answer": "What is Mount Everest?",
+    "value": "$600",
+    "category": "Nature's Superlatives",
+    "air_date": "2025-01-26",
+    "show_number": "574",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Located in the Pacific Ocean, this trench is the deepest part of the world\u2019s oceans.",
+    "answer": "What is the Mariana Trench?",
+    "value": "$800",
+    "category": "Nature's Superlatives",
+    "air_date": "2025-01-26",
+    "show_number": "574",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This continent is the coldest, driest, and windiest continent on Earth.",
+    "answer": "What is Antarctica?",
+    "value": "$1000",
+    "category": "Nature's Superlatives",
+    "air_date": "2025-01-26",
+    "show_number": "574",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the printing press?",
+    "answer": "This 15th-century invention allowed for mass communication and the spread of knowledge.",
+    "value": "$200",
+    "category": "Inventions That Changed Everything",
+    "air_date": "2025-01-26",
+    "show_number": "1466",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the internal combustion engine?",
+    "answer": "Developed in the late 19th century, this invention revolutionized transportation and industry.",
+    "value": "$400",
+    "category": "Inventions That Changed Everything",
+    "air_date": "2025-01-26",
+    "show_number": "1466",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the transistor?",
+    "answer": "First demonstrated in 1947, this invention changed the way we communicate and access information.",
+    "value": "$600",
+    "category": "Inventions That Changed Everything",
+    "air_date": "2025-01-26",
+    "show_number": "1466",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the integrated circuit?",
+    "answer": "This mid-20th century invention led to the modern computer revolution.",
+    "value": "$800",
+    "category": "Inventions That Changed Everything",
+    "air_date": "2025-01-26",
+    "show_number": "1466",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the internet?",
+    "answer": "Though conceptualized earlier, the widespread availability of this invention in the late 20th and early 21st century has fundamentally altered human interaction and global culture.",
+    "value": "$1000",
+    "category": "Inventions That Changed Everything",
+    "air_date": "2025-01-26",
+    "show_number": "1466",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Lady Macbeth?",
+    "answer": "This manipulative wife uses her beauty and charm to seduce men and achieve her goals, ultimately leading to the downfall of many.",
+    "value": "$200",
+    "category": "Literary Villains",
+    "air_date": "2025-01-26",
+    "show_number": "440",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is King Lear?",
+    "answer": "This tyrannical ruler is obsessed with power and control, leading him to exile his daughter and wage war against his enemies.",
+    "value": "$400",
+    "category": "Literary Villains",
+    "air_date": "2025-01-26",
+    "show_number": "440",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Napoleon?",
+    "answer": "This cunning and ambitious character uses deception and murder to seize power and become the leader of the animal farm.",
+    "value": "$600",
+    "category": "Literary Villains",
+    "air_date": "2025-01-26",
+    "show_number": "440",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Count Monte Cristo?",
+    "answer": "This vengeful and deeply disturbed character seeks to destroy the lives of those he believes wronged him, using elaborate schemes to achieve his goals.",
+    "value": "$800",
+    "category": "Literary Villains",
+    "air_date": "2025-01-26",
+    "show_number": "440",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Professor Moriarty?",
+    "answer": "This enigmatic and terrifying figure is responsible for many crimes, including murder and theft, and is known for his elaborate plans and disguises.",
+    "value": "$1000",
+    "category": "Literary Villains",
+    "air_date": "2025-01-26",
+    "show_number": "440",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Michelangelo?",
+    "answer": "This Italian Renaissance sculptor's statue of David was famously damaged by a vandal in 1991",
+    "value": "$200",
+    "category": "Art Scandals",
+    "air_date": "2025-01-26",
+    "show_number": "1486",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Jean-Michel Basquiat?",
+    "answer": "In 1985, this artist's painting was slashed with a box cutter at the Museum of Modern Art in New York City.",
+    "value": "$400",
+    "category": "Art Scandals",
+    "air_date": "2025-01-26",
+    "show_number": "1486",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Vincent van Gogh painting \"The Blossoming Almond Tree?\"",
+    "answer": "This artwork, valued at $1.4 million, was stolen from a Tokyo museum in 2023 and never recovered.",
+    "value": "$600",
+    "category": "Art Scandals",
+    "air_date": "2025-01-26",
+    "show_number": "1486",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who are the Fauves?",
+    "answer": "In 1913, an exhibition of this group of artists caused a riot in Paris and became one of history's greatest art scandals.",
+    "value": "$800",
+    "category": "Art Scandals",
+    "air_date": "2025-01-26",
+    "show_number": "1486",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the painting \"The Banjo Lesson\" by Henry Ossawa Tanner?",
+    "answer": "This artwork was controversially removed from a museum in 2023, and its replacement caused further outrage, sparking intense debate about cultural appropriation.",
+    "value": "$1000",
+    "category": "Art Scandals",
+    "air_date": "2025-01-26",
+    "show_number": "1486",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Hermes?",
+    "answer": "This Greek god is known as the messenger of the gods",
+    "value": "$200",
+    "category": "Mythology Around the World",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Jormangandr?",
+    "answer": "In Norse mythology, this is the serpent that circles Midgard",
+    "value": "$400",
+    "category": "Mythology Around the World",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Sekhmet?",
+    "answer": "A powerful Egyptian goddess, often depicted as a cow or a lioness",
+    "value": "$600",
+    "category": "Mythology Around the World",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Kojiki?",
+    "answer": "In this Japanese creation myth, a goddess emerges from the ocean and creates islands by stirring the sea with a jeweled spear",
+    "value": "$800",
+    "category": "Mythology Around the World",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Huitzilopochtli?",
+    "answer": "Aztec God of the sun and war, his name means \"hummingbird\"",
+    "value": "$1000",
+    "category": "Mythology Around the World",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Yuri Gagarin?",
+    "answer": "This Soviet cosmonaut was the first human in space.",
+    "value": "$200",
+    "category": "Space Race Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1717",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Sputnik 1?",
+    "answer": "The name of the first artificial satellite to orbit the Earth.",
+    "value": "$400",
+    "category": "Space Race Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1717",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Apollo?",
+    "answer": "This NASA program resulted in the first crewed lunar landing.",
+    "value": "$600",
+    "category": "Space Race Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1717",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Saturn V?",
+    "answer": "The name of the U.S. rocket that launched the Apollo missions.",
+    "value": "$800",
+    "category": "Space Race Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1717",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who are the United States and the Soviet Union?",
+    "answer": "These two nations were the primary competitors in the Space Race.",
+    "value": "$1000",
+    "category": "Space Race Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1717",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is mirror writing?",
+    "answer": "This language, used in ancient Greece, involved writing words backwards",
+    "value": "$200",
+    "category": "Secret Languages",
+    "air_date": "2025-01-26",
+    "show_number": "376",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a keyword cipher?",
+    "answer": "Popularized in the 19th century, this involved creating a code using a keyword to shift letters",
+    "value": "$400",
+    "category": "Secret Languages",
+    "air_date": "2025-01-26",
+    "show_number": "376",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is steganography?",
+    "answer": "This method of concealing messages involves hiding a message within a longer message, such as a letter or story",
+    "value": "$600",
+    "category": "Secret Languages",
+    "air_date": "2025-01-26",
+    "show_number": "376",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a code talker system?",
+    "answer": "Used by the Navajo in WWII, this type of code used a Native American language as the basis of their transmissions.",
+    "value": "$800",
+    "category": "Secret Languages",
+    "air_date": "2025-01-26",
+    "show_number": "376",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a code?",
+    "answer": "This system, used by spies and others, uses a codebook for more complex encryption.",
+    "value": "$1000",
+    "category": "Secret Languages",
+    "air_date": "2025-01-26",
+    "show_number": "376",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "If the Confederate States had won the Civil War, what nation would likely have expanded into Mexico and the Caribbean?",
+    "answer": "This nation",
+    "value": "$200",
+    "category": "Historical What-Ifs",
+    "air_date": "2025-01-26",
+    "show_number": "1270",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Had the English Navy not decisively defeated this fleet in 1588, England might have become a Catholic country, and the colonization of the Americas could have taken a radically different path.",
+    "answer": "The Spanish Armada",
+    "value": "$400",
+    "category": "Historical What-Ifs",
+    "air_date": "2025-01-26",
+    "show_number": "1270",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "If Archduke Franz Ferdinand had not been assassinated, this major conflict might never have occurred, changing the political landscape of Europe and the world dramatically.",
+    "answer": "World War I",
+    "value": "$600",
+    "category": "Historical What-Ifs",
+    "air_date": "2025-01-26",
+    "show_number": "1270",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "If the Bolsheviks had failed to seize power in 1917, this nation might not have become a communist superpower, potentially altering the course of the 20th century and the Cold War.",
+    "answer": "The Soviet Union",
+    "value": "$800",
+    "category": "Historical What-Ifs",
+    "air_date": "2025-01-26",
+    "show_number": "1270",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "If the Roman Empire had successfully repelled the Germanic migrations, Europe's development might have followed a drastically different trajectory, potentially without the formation of numerous independent kingdoms and a prolonged Dark Age.",
+    "answer": "The Roman Empire",
+    "value": "$1000",
+    "category": "Historical What-Ifs",
+    "air_date": "2025-01-26",
+    "show_number": "1270",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a hurricane?",
+    "answer": "This rotating weather phenomenon strengthens over warm ocean waters.",
+    "value": "$200",
+    "category": "Extreme Weather",
+    "air_date": "2025-01-26",
+    "show_number": "793",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are tornadoes?",
+    "answer": "These fast-moving, whirling columns of air descend from cumulonimbus clouds.",
+    "value": "$400",
+    "category": "Extreme Weather",
+    "air_date": "2025-01-26",
+    "show_number": "793",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a heat wave?",
+    "answer": "Characterized by unusually high temperatures and often little to no precipitation, this condition can result in droughts and wildfires.",
+    "value": "$600",
+    "category": "Extreme Weather",
+    "air_date": "2025-01-26",
+    "show_number": "793",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a cold front?",
+    "answer": "This meteorological event involves a rapid drop in temperature, often accompanied by strong winds and heavy precipitation.",
+    "value": "$800",
+    "category": "Extreme Weather",
+    "air_date": "2025-01-26",
+    "show_number": "793",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a hurricane (or a typhoon or a cyclone)?",
+    "answer": "With winds exceeding 74 mph, this storm is categorized into five levels based on its intensity.",
+    "value": "$1000",
+    "category": "Extreme Weather",
+    "air_date": "2025-01-26",
+    "show_number": "793",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Tutankhamun's tomb?",
+    "answer": "This ancient city, rediscovered in 1922 by Howard Carter, houses the tomb of Tutankhamun.",
+    "value": "$200",
+    "category": "Archaeological Discoveries",
+    "air_date": "2025-01-26",
+    "show_number": "1094",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Xi'an?",
+    "answer": "The Terracotta Army was discovered in 1974 by farmers digging a well near this city.",
+    "value": "$400",
+    "category": "Archaeological Discoveries",
+    "air_date": "2025-01-26",
+    "show_number": "1094",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the Dead Sea Scrolls?",
+    "answer": "These Dead Sea Scrolls, containing some of the oldest known biblical texts, were discovered in 1946-47.",
+    "value": "$600",
+    "category": "Archaeological Discoveries",
+    "air_date": "2025-01-26",
+    "show_number": "1094",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Knossos?",
+    "answer": "This Minoan palace on Crete, destroyed around 1600 BCE, was discovered by Sir Arthur Evans in the early 20th century.",
+    "value": "$800",
+    "category": "Archaeological Discoveries",
+    "air_date": "2025-01-26",
+    "show_number": "1094",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Pompeii?",
+    "answer": "The remarkably preserved Roman city of Pompeii, buried by the eruption of Mount Vesuvius in 79 CE, was rediscovered and excavated starting in the 18th century.",
+    "value": "$1000",
+    "category": "Archaeological Discoveries",
+    "air_date": "2025-01-26",
+    "show_number": "1094",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the RSA algorithm?",
+    "answer": "This algorithm, developed in the 1970s, revolutionized cryptography and is the foundation of modern secure communication.",
+    "value": "$200",
+    "category": "Game-Changing Algorithms",
+    "air_date": "2025-01-26",
+    "show_number": "1212",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Dijkstra's algorithm?",
+    "answer": "Used in GPS, this algorithm efficiently finds the shortest path between two points on a graph.",
+    "value": "$400",
+    "category": "Game-Changing Algorithms",
+    "air_date": "2025-01-26",
+    "show_number": "1212",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is merge sort?",
+    "answer": "This sorting algorithm, known for its efficiency, has an average-case time complexity of O(n log n).",
+    "value": "$600",
+    "category": "Game-Changing Algorithms",
+    "air_date": "2025-01-26",
+    "show_number": "1212",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is gradient descent?",
+    "answer": "At the heart of many machine learning models, this algorithm finds optimal weights for a linear equation to best fit a dataset.",
+    "value": "$800",
+    "category": "Game-Changing Algorithms",
+    "air_date": "2025-01-26",
+    "show_number": "1212",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is PageRank?",
+    "answer": "Developed by Google, this algorithm significantly improved the accuracy and speed of web searches.",
+    "value": "$1000",
+    "category": "Game-Changing Algorithms",
+    "air_date": "2025-01-26",
+    "show_number": "1212",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Machu Picchu?",
+    "answer": "This ancient city in the Andes Mountains was the center of the Inca Empire.",
+    "value": "$200",
+    "category": "Lost Cities",
+    "air_date": "2025-01-26",
+    "show_number": "184",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Babylon?",
+    "answer": "This city, famed for its Hanging Gardens, was one of the greatest cities of Mesopotamia.",
+    "value": "$400",
+    "category": "Lost Cities",
+    "air_date": "2025-01-26",
+    "show_number": "184",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Tyre?",
+    "answer": "Now mostly in ruins, this city on the coast of modern-day Lebanon was a significant center of trade and culture in the ancient world.",
+    "value": "$600",
+    "category": "Lost Cities",
+    "air_date": "2025-01-26",
+    "show_number": "184",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Tikal?",
+    "answer": "Once a major city of the Maya civilization, this site features impressive pyramids and temples, now located in present-day Guatemala.",
+    "value": "$800",
+    "category": "Lost Cities",
+    "air_date": "2025-01-26",
+    "show_number": "184",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is El Dorado?",
+    "answer": "Legendary city of gold sought by conquistadors in South America; its precise location remains a mystery.",
+    "value": "$1000",
+    "category": "Lost Cities",
+    "air_date": "2025-01-26",
+    "show_number": "184",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the microscope?",
+    "answer": "This 17th-century invention allowed for the detailed observation of cells and microorganisms, opening up the field of microbiology.",
+    "value": "$200",
+    "category": "Scientific Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "1424",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is pasteurization?",
+    "answer": "Developed in the late 19th century, this process revolutionized food safety by killing harmful bacteria in liquids.",
+    "value": "$400",
+    "category": "Scientific Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "1424",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the neutron?",
+    "answer": "The discovery of this particle in 1932, by James Chadwick, completed the basic model of the atom.",
+    "value": "$600",
+    "category": "Scientific Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "1424",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is penicillin?",
+    "answer": "This 1928 discovery, entirely by accident, led to the development of the first antibiotic, penicillin.",
+    "value": "$800",
+    "category": "Scientific Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "1424",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Human Genome Project?",
+    "answer": "The completion of this project in 2003 provided a complete blueprint of human DNA, promising new advancements in medicine and genetics.",
+    "value": "$1000",
+    "category": "Scientific Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "1424",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is beans?",
+    "answer": "This prepared food is a staple of many cuisines, often served with rice or other grains.",
+    "value": "$200",
+    "category": "\"B\" Prepared",
+    "air_date": "2025-01-26",
+    "show_number": "1668",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Vitamin B?",
+    "answer": "This vitamin, crucial for bone health, is abundant in many prepared 'B' foods.",
+    "value": "$400",
+    "category": "\"B\" Prepared",
+    "air_date": "2025-01-26",
+    "show_number": "1668",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is bacon?",
+    "answer": "A popular prepared breakfast food, often made with eggs and meat, starts with this letter.",
+    "value": "$600",
+    "category": "\"B\" Prepared",
+    "air_date": "2025-01-26",
+    "show_number": "1668",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is bean paste?",
+    "answer": "This prepared spread, often found on sandwiches, usually contains fermented soybeans.",
+    "value": "$800",
+    "category": "\"B\" Prepared",
+    "air_date": "2025-01-26",
+    "show_number": "1668",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is bean flour?",
+    "answer": "Commonly used in baking, this prepared powder, often made from beans, acts as a binder and thickener.",
+    "value": "$1000",
+    "category": "\"B\" Prepared",
+    "air_date": "2025-01-26",
+    "show_number": "1668",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a sea?",
+    "answer": "A large body of water",
+    "value": "$200",
+    "category": "Rhyme Time",
+    "air_date": "2025-01-26",
+    "show_number": "413",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is to walk?",
+    "answer": "Something you do with your feet",
+    "value": "$400",
+    "category": "Rhyme Time",
+    "air_date": "2025-01-26",
+    "show_number": "413",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a cat?",
+    "answer": "A type of feline",
+    "value": "$600",
+    "category": "Rhyme Time",
+    "air_date": "2025-01-26",
+    "show_number": "413",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a bed?",
+    "answer": "A place to sleep",
+    "value": "$800",
+    "category": "Rhyme Time",
+    "air_date": "2025-01-26",
+    "show_number": "413",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is win?",
+    "answer": "The opposite of lose",
+    "value": "$1000",
+    "category": "Rhyme Time",
+    "air_date": "2025-01-26",
+    "show_number": "413",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is The Brady Bunch?",
+    "answer": "This 1970s sitcom featured a family that included a quirky patriarch and a very fashionable daughter.",
+    "value": "$200",
+    "category": "Before & After",
+    "air_date": "2025-01-26",
+    "show_number": "1955",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Dolly Parton?",
+    "answer": "This country singer's songs about heartbreak and longing made her a country music icon.",
+    "value": "$400",
+    "category": "Before & After",
+    "air_date": "2025-01-26",
+    "show_number": "1955",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Macbeth?",
+    "answer": "This Shakespearean tragedy features a powerful king whose ambition leads to his downfall.",
+    "value": "$600",
+    "category": "Before & After",
+    "air_date": "2025-01-26",
+    "show_number": "1955",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Jackson Pollock?",
+    "answer": "This American painter's works are characterized by their bold colors and emotional intensity.",
+    "value": "$800",
+    "category": "Before & After",
+    "air_date": "2025-01-26",
+    "show_number": "1955",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Super Mario Bros?",
+    "answer": "This popular video game franchise features iconic characters like Mario and Luigi.",
+    "value": "$1000",
+    "category": "Before & After",
+    "air_date": "2025-01-26",
+    "show_number": "1955",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is freezing rain?",
+    "answer": "This colorful winter precipitation is actually just frozen rain",
+    "value": "$200",
+    "category": "Let It \"Snow\"",
+    "air_date": "2025-01-26",
+    "show_number": "1905",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is ice?",
+    "answer": "These intricate ice crystals are the main component of snowflakes",
+    "value": "$400",
+    "category": "Let It \"Snow\"",
+    "air_date": "2025-01-26",
+    "show_number": "1905",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a blizzard?",
+    "answer": "This winter storm phenomenon features heavy snowfall with strong winds, often reducing visibility to near zero",
+    "value": "$600",
+    "category": "Let It \"Snow\"",
+    "air_date": "2025-01-26",
+    "show_number": "1905",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is an arctic climate?",
+    "answer": "Characterized by low temperatures, abundant snow, and long, dark nights, this is a type of climate found in Earth's polar regions and high mountain ranges",
+    "value": "$800",
+    "category": "Let It \"Snow\"",
+    "air_date": "2025-01-26",
+    "show_number": "1905",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is deposition?",
+    "answer": "This process involves the transformation of water vapor directly into ice crystals without passing through the liquid phase",
+    "value": "$1000",
+    "category": "Let It \"Snow\"",
+    "air_date": "2025-01-26",
+    "show_number": "1905",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is California?",
+    "answer": "This state's capital is Sacramento",
+    "value": "$200",
+    "category": "The \"State\" of Things",
+    "air_date": "2025-01-26",
+    "show_number": "1599",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is California?",
+    "answer": "This state is known for its beaches and Hollywood",
+    "value": "$400",
+    "category": "The \"State\" of Things",
+    "air_date": "2025-01-26",
+    "show_number": "1599",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Texas?",
+    "answer": "The Alamo is located in this state",
+    "value": "$600",
+    "category": "The \"State\" of Things",
+    "air_date": "2025-01-26",
+    "show_number": "1599",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Vermont?",
+    "answer": "This state is famous for its maple syrup and its beautiful autumn foliage",
+    "value": "$800",
+    "category": "The \"State\" of Things",
+    "air_date": "2025-01-26",
+    "show_number": "1599",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Oregon?",
+    "answer": "This state contains the cities of Portland and Salem and borders the Pacific Ocean",
+    "value": "$1000",
+    "category": "The \"State\" of Things",
+    "air_date": "2025-01-26",
+    "show_number": "1599",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Japan?",
+    "answer": "This country's leader recently visited the White House for a bilateral meeting.",
+    "value": "$200",
+    "category": "Recurring \"Current\" Events",
+    "air_date": "2025-01-26",
+    "show_number": "1510",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the United Nations?",
+    "answer": "This global organization recently convened a summit to address climate change.",
+    "value": "$400",
+    "category": "Recurring \"Current\" Events",
+    "air_date": "2025-01-26",
+    "show_number": "1510",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the war in Ukraine?",
+    "answer": "This conflict continues to displace millions and cause a humanitarian crisis.",
+    "value": "$600",
+    "category": "Recurring \"Current\" Events",
+    "air_date": "2025-01-26",
+    "show_number": "1510",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is inflation?",
+    "answer": "This economic issue is causing concern among global leaders due to rising interest rates.",
+    "value": "$800",
+    "category": "Recurring \"Current\" Events",
+    "air_date": "2025-01-26",
+    "show_number": "1510",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is X (formerly Twitter)?",
+    "answer": "This social media platform recently announced new measures to combat misinformation.",
+    "value": "$1000",
+    "category": "Recurring \"Current\" Events",
+    "air_date": "2025-01-26",
+    "show_number": "1510",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a deciduous tree?",
+    "answer": "This type of tree is often used to make paper. ",
+    "value": "$200",
+    "category": "\"Tree\"gonometry",
+    "air_date": "2025-01-26",
+    "show_number": "1938",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is bark?",
+    "answer": "This is the outermost layer of a tree that protects the tree from the elements. ",
+    "value": "$400",
+    "category": "\"Tree\"gonometry",
+    "air_date": "2025-01-26",
+    "show_number": "1938",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Photosynthesis?",
+    "answer": "This process allows trees to create their own food using sunlight, water, and carbon dioxide. ",
+    "value": "$600",
+    "category": "\"Tree\"gonometry",
+    "air_date": "2025-01-26",
+    "show_number": "1938",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the tree's age?",
+    "answer": "The rings found in the cross-section of a tree trunk show this. ",
+    "value": "$800",
+    "category": "\"Tree\"gonometry",
+    "air_date": "2025-01-26",
+    "show_number": "1938",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are roots?",
+    "answer": "This is the part of the tree that absorbs water and nutrients from the soil. ",
+    "value": "$1000",
+    "category": "\"Tree\"gonometry",
+    "air_date": "2025-01-26",
+    "show_number": "1938",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the capital of California?",
+    "answer": "Sacramento",
+    "value": "$200",
+    "category": "A \"Capital\" Idea",
+    "air_date": "2025-01-26",
+    "show_number": "535",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the capital of Texas?",
+    "answer": "Austin",
+    "value": "$400",
+    "category": "A \"Capital\" Idea",
+    "air_date": "2025-01-26",
+    "show_number": "535",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the capital of Illinois?",
+    "answer": "Springfield",
+    "value": "$600",
+    "category": "A \"Capital\" Idea",
+    "air_date": "2025-01-26",
+    "show_number": "535",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the capital of Slovakia?",
+    "answer": "Bratislava",
+    "value": "$800",
+    "category": "A \"Capital\" Idea",
+    "air_date": "2025-01-26",
+    "show_number": "535",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra",
+    "value": "$1000",
+    "category": "A \"Capital\" Idea",
+    "air_date": "2025-01-26",
+    "show_number": "535",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "For $200: What is the beginning of *Great Expectations*?",
+    "answer": "A young boy named Pip finds a convict hiding in a graveyard.",
+    "value": "$200",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "267",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "For $400: What is the beginning of *The Stranger*?",
+    "answer": "The main character, Meursault, describes the death of his mother with unexpected detachment.",
+    "value": "$400",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "267",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "For $600: What is the beginning of *Frankenstein*?",
+    "answer": "The novel opens with a letter from the main character to his sister.",
+    "value": "$600",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "267",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "For $800: What is the beginning of *The Hound of the Baskervilles*?",
+    "answer": "A wealthy and powerful gentleman is found dead in his study, beginning a chain of mysterious events.",
+    "value": "$800",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "267",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "For $1000: What is the beginning of *The Great Gatsby*?",
+    "answer": "The novel starts with the description of a lavish party hosted by a wealthy family, setting the stage for drama and intrigue.",
+    "value": "$1000",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "267",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is basalt?",
+    "answer": "This rock, formed from cooled lava, makes up the ocean floor.",
+    "value": "$200",
+    "category": "\"Rock\" of Ages",
+    "air_date": "2025-01-26",
+    "show_number": "1545",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is slate?",
+    "answer": "This metamorphic rock is known for its layered appearance and is often used in building.",
+    "value": "$400",
+    "category": "\"Rock\" of Ages",
+    "air_date": "2025-01-26",
+    "show_number": "1545",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is sandstone?",
+    "answer": "This sedimentary rock, made of cemented sand grains, is a common building material.",
+    "value": "$600",
+    "category": "\"Rock\" of Ages",
+    "air_date": "2025-01-26",
+    "show_number": "1545",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is granite?",
+    "answer": "This igneous rock, often light-colored, is formed from the slow cooling of magma deep within the Earth.",
+    "value": "$800",
+    "category": "\"Rock\" of Ages",
+    "air_date": "2025-01-26",
+    "show_number": "1545",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is metamorphism?",
+    "answer": "This process transforms existing rocks into new rocks through heat, pressure, or chemical reactions.",
+    "value": "$1000",
+    "category": "\"Rock\" of Ages",
+    "air_date": "2025-01-26",
+    "show_number": "1545",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Jennifer Doudna?",
+    "answer": "This woman\u2019s groundbreaking work with CRISPR gene editing technology earned her a Nobel Prize",
+    "value": "$200",
+    "category": "Out \"Standing\" in Their Fields",
+    "air_date": "2025-01-26",
+    "show_number": "1888",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Stephen Hawking?",
+    "answer": "This British physicist formulated the theory of general relativity",
+    "value": "$400",
+    "category": "Out \"Standing\" in Their Fields",
+    "air_date": "2025-01-26",
+    "show_number": "1888",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Jane Goodall?",
+    "answer": "This American biologist and primatologist is known for her long-term study of chimpanzees in Tanzania",
+    "value": "$600",
+    "category": "Out \"Standing\" in Their Fields",
+    "air_date": "2025-01-26",
+    "show_number": "1888",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Ada Lovelace?",
+    "answer": "This female mathematician and computer scientist is known for her work on the ENIAC and for being one of the first computer programmers",
+    "value": "$800",
+    "category": "Out \"Standing\" in Their Fields",
+    "air_date": "2025-01-26",
+    "show_number": "1888",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Marie Curie?",
+    "answer": "This Polish and naturalized-French physicist and chemist is known for her work in radioactivity and was the first woman to win a Nobel Prize",
+    "value": "$1000",
+    "category": "Out \"Standing\" in Their Fields",
+    "air_date": "2025-01-26",
+    "show_number": "1888",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is here?",
+    "answer": "This leafy green is a popular addition to salads and sandwiches.",
+    "value": "$200",
+    "category": "Initial \"Here\"",
+    "air_date": "2025-01-26",
+    "show_number": "596",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is here?",
+    "answer": "This word describes something that is present or available.",
+    "value": "$400",
+    "category": "Initial \"Here\"",
+    "air_date": "2025-01-26",
+    "show_number": "596",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is 'here and now'?",
+    "answer": "Often paired with 'and now', this phrase introduces the present moment.",
+    "value": "$600",
+    "category": "Initial \"Here\"",
+    "air_date": "2025-01-26",
+    "show_number": "596",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Johnny Carson?",
+    "answer": "In the phrase \"Here's Johnny!\" , this person was famously introduced.",
+    "value": "$800",
+    "category": "Initial \"Here\"",
+    "air_date": "2025-01-26",
+    "show_number": "596",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is 'Here'?",
+    "answer": "This is a command that tells the computer to display content on the console.",
+    "value": "$1000",
+    "category": "Initial \"Here\"",
+    "air_date": "2025-01-26",
+    "show_number": "596",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a cheetah?",
+    "answer": "This big cat is known for its spots.",
+    "value": "$200",
+    "category": "\"Meow\"velous Cats",
+    "air_date": "2025-01-26",
+    "show_number": "765",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Cyprus?",
+    "answer": "The smallest cat species is found on this Mediterranean island.",
+    "value": "$400",
+    "category": "\"Meow\"velous Cats",
+    "air_date": "2025-01-26",
+    "show_number": "765",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is an ocelot?",
+    "answer": "This nocturnal cat is known for its large eyes and distinctive markings.",
+    "value": "$600",
+    "category": "\"Meow\"velous Cats",
+    "air_date": "2025-01-26",
+    "show_number": "765",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a Sphynx?",
+    "answer": "This cat breed is easily recognized by its lack of fur.",
+    "value": "$800",
+    "category": "\"Meow\"velous Cats",
+    "air_date": "2025-01-26",
+    "show_number": "765",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the African wildcat?",
+    "answer": "Domestic cats are believed to be descended from this wild cat species.",
+    "value": "$1000",
+    "category": "\"Meow\"velous Cats",
+    "air_date": "2025-01-26",
+    "show_number": "765",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Eames Lounge Chair?",
+    "answer": "This iconic chair, designed in 1959, is known for its distinctive organic curves and use of fiberglass.",
+    "value": "$200",
+    "category": "\"Chair\"man of the Board",
+    "air_date": "2025-01-26",
+    "show_number": "77",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a wingback chair?",
+    "answer": "The \"Thinking Man\" is often depicted sitting in this type of chair, known for its high back and supportive arms.",
+    "value": "$400",
+    "category": "\"Chair\"man of the Board",
+    "air_date": "2025-01-26",
+    "show_number": "77",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a parlor chair?",
+    "answer": "This type of chair, popular in the Victorian era, features intricately carved wood and plush upholstery.",
+    "value": "$600",
+    "category": "\"Chair\"man of the Board",
+    "air_date": "2025-01-26",
+    "show_number": "77",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a Thonet chair?",
+    "answer": "Often crafted from bentwood, this chair's design was a breakthrough in mass production and affordability.",
+    "value": "$800",
+    "category": "\"Chair\"man of the Board",
+    "air_date": "2025-01-26",
+    "show_number": "77",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Red and Blue Chair?",
+    "answer": "This minimalist chair, designed by Gerrit Rietveld in 1918, is known for its bold use of primary colors and asymmetric design.",
+    "value": "$1000",
+    "category": "\"Chair\"man of the Board",
+    "air_date": "2025-01-26",
+    "show_number": "77",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is condensation?",
+    "answer": "This process, the opposite of evaporation, occurs when water vapor turns back into liquid.",
+    "value": "$200",
+    "category": "\"Water\" You Talking About",
+    "air_date": "2025-01-26",
+    "show_number": "1610",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the water table?",
+    "answer": "This term refers to the level below which the ground is saturated with water.",
+    "value": "$400",
+    "category": "\"Water\" You Talking About",
+    "air_date": "2025-01-26",
+    "show_number": "1610",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the water cycle?",
+    "answer": "The continuous movement of water on, above, and below the surface of the Earth is known as this.",
+    "value": "$600",
+    "category": "\"Water\" You Talking About",
+    "air_date": "2025-01-26",
+    "show_number": "1610",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a bay?",
+    "answer": "This term describes a body of water that is partially surrounded by land and is connected to a larger body of water, such as an ocean.",
+    "value": "$800",
+    "category": "\"Water\" You Talking About",
+    "air_date": "2025-01-26",
+    "show_number": "1610",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is saltwater?",
+    "answer": "This type of water is characterized by its high salt concentration, typically more than 3.5% by weight.",
+    "value": "$1000",
+    "category": "\"Water\" You Talking About",
+    "air_date": "2025-01-26",
+    "show_number": "1610",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a day?",
+    "answer": "This is the time it takes for the Earth to complete one rotation on its axis.",
+    "value": "$200",
+    "category": "\"Time\" After Time",
+    "air_date": "2025-01-26",
+    "show_number": "1704",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a year?",
+    "answer": "This is the time it takes for the Earth to make one complete orbit around the sun.",
+    "value": "$400",
+    "category": "\"Time\" After Time",
+    "air_date": "2025-01-26",
+    "show_number": "1704",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are January, March, May, July, August, October, and December?",
+    "answer": "In the Gregorian calendar, these months have 31 days.",
+    "value": "$600",
+    "category": "\"Time\" After Time",
+    "air_date": "2025-01-26",
+    "show_number": "1704",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is February?",
+    "answer": "This is the only month that has a variable number of days, depending on whether it's a leap year or not.",
+    "value": "$800",
+    "category": "\"Time\" After Time",
+    "air_date": "2025-01-26",
+    "show_number": "1704",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a second?",
+    "answer": "This time measurement is approximately 1/86,400 of a day and is based on the Earth's rotation.",
+    "value": "$1000",
+    "category": "\"Time\" After Time",
+    "air_date": "2025-01-26",
+    "show_number": "1704",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Rigel Kentaurus?",
+    "answer": "This star, also known as Alpha Centauri A, is the closest star to our Sun.",
+    "value": "$200",
+    "category": "\"Star\"ting Lineup",
+    "air_date": "2025-01-26",
+    "show_number": "1550",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Aldebaran?",
+    "answer": "This red giant star is the brightest star in the constellation Taurus and is sometimes called the \"Bull's Eye.\"",
+    "value": "$400",
+    "category": "\"Star\"ting Lineup",
+    "air_date": "2025-01-26",
+    "show_number": "1550",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Sirius?",
+    "answer": "This star system,  containing the stars Sirius A and Sirius B, is the brightest star system in the night sky.",
+    "value": "$600",
+    "category": "\"Star\"ting Lineup",
+    "air_date": "2025-01-26",
+    "show_number": "1550",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a protostar?",
+    "answer": "Formed from the collapse of a cloud of gas and dust, this is the stage of a star's life before it becomes a main-sequence star.",
+    "value": "$800",
+    "category": "\"Star\"ting Lineup",
+    "air_date": "2025-01-26",
+    "show_number": "1550",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the brightest star in the night sky?",
+    "answer": "Betelgeuse, a red supergiant, is expected to go supernova sometime in the next 100,000 years. When it does, it will briefly become one of these, outshining the moon.",
+    "value": "$1000",
+    "category": "\"Star\"ting Lineup",
+    "air_date": "2025-01-26",
+    "show_number": "1550",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is ricotta?",
+    "answer": "This creamy Italian cheese is essential for making authentic lasagna.",
+    "value": "$200",
+    "category": "\"Food\" For Thought",
+    "air_date": "2025-01-26",
+    "show_number": "1300",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is lox?",
+    "answer": "Often served with bagels, this cured fish is a popular breakfast choice.",
+    "value": "$400",
+    "category": "\"Food\" For Thought",
+    "air_date": "2025-01-26",
+    "show_number": "1300",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is wheat?",
+    "answer": "A staple in many cuisines, this versatile grain is used to make bread, pasta, and cereals.",
+    "value": "$600",
+    "category": "\"Food\" For Thought",
+    "air_date": "2025-01-26",
+    "show_number": "1300",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is fermentation?",
+    "answer": "The process of fermenting soybeans to create a variety of condiments and sauces.",
+    "value": "$800",
+    "category": "\"Food\" For Thought",
+    "air_date": "2025-01-26",
+    "show_number": "1300",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is sushi?",
+    "answer": "This Japanese dish consists of vinegared rice, seafood, and vegetables.",
+    "value": "$1000",
+    "category": "\"Food\" For Thought",
+    "air_date": "2025-01-26",
+    "show_number": "1300",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is acrylic paint?",
+    "answer": "This paint type, popular for its ease of use, is water-based and cleans up easily with soap and water.",
+    "value": "$200",
+    "category": "\"Paint\" By Numbers",
+    "air_date": "2025-01-26",
+    "show_number": "676",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is oil paint?",
+    "answer": "Often used on canvas, this type of paint uses pigment suspended in oil.",
+    "value": "$400",
+    "category": "\"Paint\" By Numbers",
+    "air_date": "2025-01-26",
+    "show_number": "676",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is glazing?",
+    "answer": "This painting technique involves applying paint in thin, translucent layers to create depth and luminosity.",
+    "value": "$600",
+    "category": "\"Paint\" By Numbers",
+    "air_date": "2025-01-26",
+    "show_number": "676",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is orange?",
+    "answer": "A primary color, this pigment is often made from a mixture of red and yellow.",
+    "value": "$800",
+    "category": "\"Paint\" By Numbers",
+    "air_date": "2025-01-26",
+    "show_number": "676",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is \"alla prima\" or wet-on-wet painting?",
+    "answer": "This process involves mixing colors directly on the canvas, without premixing paints on a palette.",
+    "value": "$1000",
+    "category": "\"Paint\" By Numbers",
+    "air_date": "2025-01-26",
+    "show_number": "676",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This unit measures sound intensity.",
+    "answer": "What is a decibel?",
+    "value": "$200",
+    "category": "\"Sound\" Investment",
+    "air_date": "2025-01-26",
+    "show_number": "1632",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This phenomenon causes a change in pitch as a sound source moves relative to an observer.",
+    "answer": "What is the Doppler effect?",
+    "value": "$400",
+    "category": "\"Sound\" Investment",
+    "air_date": "2025-01-26",
+    "show_number": "1632",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This occurs when an object vibrates at its natural frequency, causing a dramatic increase in amplitude.",
+    "answer": "What is resonance?",
+    "value": "$600",
+    "category": "\"Sound\" Investment",
+    "air_date": "2025-01-26",
+    "show_number": "1632",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This shock wave is created by an object traveling faster than the speed of sound.",
+    "answer": "What is a sonic boom?",
+    "value": "$800",
+    "category": "\"Sound\" Investment",
+    "air_date": "2025-01-26",
+    "show_number": "1632",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This phenomenon is caused by the reflection of sound waves.",
+    "answer": "What is an echo?",
+    "value": "$1000",
+    "category": "\"Sound\" Investment",
+    "air_date": "2025-01-26",
+    "show_number": "1632",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Laura Esquivel?",
+    "answer": "This Argentine author wrote \"Like Water for Chocolate\"",
+    "value": "$200",
+    "category": "International Authors",
+    "air_date": "2025-01-26",
+    "show_number": "60",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Isabel Allende?",
+    "answer": "This Chilean author wrote \"The House of the Spirits\"",
+    "value": "$400",
+    "category": "International Authors",
+    "air_date": "2025-01-26",
+    "show_number": "60",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is James Joyce?",
+    "answer": "This Irish author wrote \"Ulysses\"",
+    "value": "$600",
+    "category": "International Authors",
+    "air_date": "2025-01-26",
+    "show_number": "60",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Chinua Achebe?",
+    "answer": "This Nigerian author wrote \"Things Fall Apart\"",
+    "value": "$800",
+    "category": "International Authors",
+    "air_date": "2025-01-26",
+    "show_number": "60",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Gabriel Garcia Marquez?",
+    "answer": "This Colombian author wrote \"One Hundred Years of Solitude\"",
+    "value": "$1000",
+    "category": "International Authors",
+    "air_date": "2025-01-26",
+    "show_number": "60",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the opening line to Star Wars: A New Hope?",
+    "answer": "A long time ago in a galaxy far, far away...",
+    "value": "$200",
+    "category": "First Lines",
+    "air_date": "2025-01-26",
+    "show_number": "190",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the opening line to Pride and Prejudice?",
+    "answer": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "value": "$400",
+    "category": "First Lines",
+    "air_date": "2025-01-26",
+    "show_number": "190",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the opening line to Moby Dick?",
+    "answer": "Call me Ishmael.",
+    "value": "$600",
+    "category": "First Lines",
+    "air_date": "2025-01-26",
+    "show_number": "190",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the opening line to the King James Version of the Bible?",
+    "answer": "In the beginning God created the heaven and the earth.",
+    "value": "$800",
+    "category": "First Lines",
+    "air_date": "2025-01-26",
+    "show_number": "190",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the opening line to Anna Karenina?",
+    "answer": "All happy families are alike; each unhappy family is unhappy in its own way.",
+    "value": "$1000",
+    "category": "First Lines",
+    "air_date": "2025-01-26",
+    "show_number": "190",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is \"Where the Wild Things Are\"?",
+    "answer": "This children's book features a young boy who discovers a magical land.",
+    "value": "$200",
+    "category": "\"Book\" To The Future",
+    "air_date": "2025-01-26",
+    "show_number": "1743",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is \"The Very Hungry Caterpillar\"?",
+    "answer": "Published in 1963, this book is now considered a classic of children's literature.",
+    "value": "$400",
+    "category": "\"Book\" To The Future",
+    "air_date": "2025-01-26",
+    "show_number": "1743",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is \"Nineteen Eighty-Four\"?",
+    "answer": "This dystopian novel, published in 1949, explores themes of censorship, totalitarianism, and individual freedom.",
+    "value": "$600",
+    "category": "\"Book\" To The Future",
+    "air_date": "2025-01-26",
+    "show_number": "1743",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is \"Jane Eyre\"?",
+    "answer": "First published in 1847, this novel has become one of the most famous works of English literature, known for its rich characters and complex plot.",
+    "value": "$800",
+    "category": "\"Book\" To The Future",
+    "air_date": "2025-01-26",
+    "show_number": "1743",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is \"A Wrinkle in Time\"?",
+    "answer": "This science fiction novel, published in 1968, tells the story of a group of astronauts who travel through time.",
+    "value": "$1000",
+    "category": "\"Book\" To The Future",
+    "air_date": "2025-01-26",
+    "show_number": "1743",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Lady Macbeth?",
+    "answer": "This Scottish general's daughter disguises herself as a man to fight for Scotland and England.",
+    "value": "$200",
+    "category": "Shakespeare's Women",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Titania?",
+    "answer": "She is the queen of the fairies, and is also known as Titania.",
+    "value": "$400",
+    "category": "Shakespeare's Women",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Cleopatra?",
+    "answer": "This woman is known for her great beauty and is the subject of a play named after her.",
+    "value": "$600",
+    "category": "Shakespeare's Women",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Ophelia?",
+    "answer": "Though she dies in childbirth, her name lives on in association with Hamlet's revenge.",
+    "value": "$800",
+    "category": "Shakespeare's Women",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Gertrude?",
+    "answer": "She famously proclaims, \"To be or not to be,\" contemplating suicide.",
+    "value": "$1000",
+    "category": "Shakespeare's Women",
+    "air_date": "2025-01-26",
+    "show_number": "1813",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Sylvia Plath?",
+    "answer": "This poet, known for their work in the confessional poetry movement, penned the collection  'Ariel'",
+    "value": "$200",
+    "category": "Modern Poetry",
+    "air_date": "2025-01-26",
+    "show_number": "1437",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is John Berryman?",
+    "answer": "This 20th century poet's work often explored themes of nature and spirituality, evident in collections such as 'The Dream Songs'",
+    "value": "$400",
+    "category": "Modern Poetry",
+    "air_date": "2025-01-26",
+    "show_number": "1437",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Amiri Baraka?",
+    "answer": "This poet, associated with the Black Arts Movement, is celebrated for their powerful and politically charged works like 'Preface to a Twenty-Volume Suicide Note'",
+    "value": "$600",
+    "category": "Modern Poetry",
+    "air_date": "2025-01-26",
+    "show_number": "1437",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is John Ashbery?",
+    "answer": "This poet's collection 'Twenty-Four Preludes & Fugues' is noted for its unique blend of musicality and emotional depth.",
+    "value": "$800",
+    "category": "Modern Poetry",
+    "air_date": "2025-01-26",
+    "show_number": "1437",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Allen Ginsberg?",
+    "answer": "This influential poet, a key figure in the Beat Generation, is celebrated for their free verse and often autobiographical style, as seen in 'Howl'",
+    "value": "$1000",
+    "category": "Modern Poetry",
+    "air_date": "2025-01-26",
+    "show_number": "1437",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is hand-copying?",
+    "answer": "Before the invention of the printing press, this was the primary method of sharing written texts.",
+    "value": "$200",
+    "category": "Before & Chapter",
+    "air_date": "2025-01-26",
+    "show_number": "1214",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is manual labor or animals?",
+    "answer": "Before the widespread use of electricity, this was the most common source of power for homes.",
+    "value": "$400",
+    "category": "Before & Chapter",
+    "air_date": "2025-01-26",
+    "show_number": "1214",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Gandalf?",
+    "answer": "In \"The Lord of the Rings,\" before the Fellowship sets out from Rivendell, this character has an important vision.",
+    "value": "$600",
+    "category": "Before & Chapter",
+    "air_date": "2025-01-26",
+    "show_number": "1214",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Gatsby?",
+    "answer": "Before the events of \"The Great Gatsby,\" this character had a tragic past involving a lost love.",
+    "value": "$800",
+    "category": "Before & Chapter",
+    "air_date": "2025-01-26",
+    "show_number": "1214",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Polonius?",
+    "answer": "Before the climax of \"Hamlet,\" this character's death is a significant turning point in the play.",
+    "value": "$1000",
+    "category": "Before & Chapter",
+    "air_date": "2025-01-26",
+    "show_number": "1214",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Middle-earth?",
+    "answer": "This land of dwarves, elves, and hobbits is the setting for Tolkien's \"Lord of the Rings.\"",
+    "value": "$200",
+    "category": "Fantasy Worlds",
+    "air_date": "2025-01-26",
+    "show_number": "593",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Pandora?",
+    "answer": "With its floating islands and warring nations, this world is home to the Avatar.",
+    "value": "$400",
+    "category": "Fantasy Worlds",
+    "air_date": "2025-01-26",
+    "show_number": "593",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Wizarding World?",
+    "answer": "Magic, mythical creatures, and a boy who lived under the stairs are hallmarks of this world.",
+    "value": "$600",
+    "category": "Fantasy Worlds",
+    "air_date": "2025-01-26",
+    "show_number": "593",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Narnia?",
+    "answer": "Chronicles of Narnia, with its talking animals and magical land, is set in this world.",
+    "value": "$800",
+    "category": "Fantasy Worlds",
+    "air_date": "2025-01-26",
+    "show_number": "593",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Randland?",
+    "answer": "This world, known for its diverse races and complex political landscape, is the setting for the \"Wheel of Time\" series.",
+    "value": "$1000",
+    "category": "Fantasy Worlds",
+    "air_date": "2025-01-26",
+    "show_number": "593",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Divergent?",
+    "answer": "This 2014 film adaptation of a young adult novel features a dystopian society where citizens are ranked by their aptitude.",
+    "value": "$200",
+    "category": "Literary Adaptations",
+    "air_date": "2025-01-26",
+    "show_number": "625",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is The Shawshank Redemption?",
+    "answer": "Based on the novel by Stephen King, this 1994 film follows a group of children who encounter a malevolent entity.",
+    "value": "$400",
+    "category": "Literary Adaptations",
+    "air_date": "2025-01-26",
+    "show_number": "625",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is The Lord of the Rings: The Fellowship of the Ring?",
+    "answer": "This 2001 film, directed by Peter Jackson, is based on a fantasy novel and is the first installment of a film trilogy.",
+    "value": "$600",
+    "category": "Literary Adaptations",
+    "air_date": "2025-01-26",
+    "show_number": "625",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Gone With the Wind?",
+    "answer": "A 1939 novel by Margaret Mitchell was adapted into this epic Civil War drama, which won numerous awards including Best Picture.",
+    "value": "$800",
+    "category": "Literary Adaptations",
+    "air_date": "2025-01-26",
+    "show_number": "625",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is The Hunger Games?",
+    "answer": "This critically acclaimed 2022 film adaptation of a popular novel features a group of teenagers who are transported to a mysterious island.",
+    "value": "$1000",
+    "category": "Literary Adaptations",
+    "air_date": "2025-01-26",
+    "show_number": "625",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the opening events of Daniel Defoe's 'Robinson Crusoe'?",
+    "answer": "A sudden storm, a ship wreck, and a deserted island",
+    "value": "$200",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "1835",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the common name given to the plot device seen in the opening chapters of 'The Lord of the Rings', 'The Hobbit', and countless other fantasy novels?",
+    "answer": "The call to adventure",
+    "value": "$400",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "1835",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are some common elements found in the opening chapters of Gothic novels like 'Frankenstein' or 'The Mysteries of Udolpho'?",
+    "answer": "A mysterious letter, the discovery of a hidden manuscript, and a meeting with an enigmatic character",
+    "value": "$600",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "1835",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What events mark the beginning of J.R.R. Tolkien's 'The Hobbit'?",
+    "answer": "An idyllic description of the Shire, followed by the arrival of Gandalf and the disruption of Bilbo's comfortable life",
+    "value": "$800",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "1835",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the striking contrast established in the opening pages of Franz Kafka's 'The Metamorphosis'?",
+    "answer": "The seemingly ordinary life of Gregor Samsa before his transformation into an insect",
+    "value": "$1000",
+    "category": "\"Novel\" Beginnings",
+    "air_date": "2025-01-26",
+    "show_number": "1835",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is The Grapes of Wrath?",
+    "answer": "This book by John Steinbeck was banned in many places for its depiction of migrant workers and their struggles.",
+    "value": "$200",
+    "category": "Banned Books",
+    "air_date": "2025-01-26",
+    "show_number": "1017",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Maus?",
+    "answer": "This graphic novel by Art Spiegelman, a memoir about his father\u2019s experiences in the Holocaust, has been challenged for its mature themes.",
+    "value": "$400",
+    "category": "Banned Books",
+    "air_date": "2025-01-26",
+    "show_number": "1017",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Go Set a Watchman?",
+    "answer": "This novel by Harper Lee, a sequel to To Kill a Mockingbird, faced challenges for its portrayal of racism and controversial characters.",
+    "value": "$600",
+    "category": "Banned Books",
+    "air_date": "2025-01-26",
+    "show_number": "1017",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Adventures of Huckleberry Finn?",
+    "answer": "This satirical novel by Mark Twain often faces challenges for its use of racial slurs and stereotypes, despite its critique of racism.",
+    "value": "$800",
+    "category": "Banned Books",
+    "air_date": "2025-01-26",
+    "show_number": "1017",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Harry Potter?",
+    "answer": "This series of books by J.K. Rowling has been challenged for its promotion of witchcraft and wizardry, though it also promotes themes of love and courage.",
+    "value": "$1000",
+    "category": "Banned Books",
+    "air_date": "2025-01-26",
+    "show_number": "1017",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Greece?",
+    "answer": "In 1896, this country hosted the first modern Olympic Games.",
+    "value": "$200",
+    "category": "Olympic Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1778",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Marathon?",
+    "answer": "This event, featuring a 2500 meter race, was the first event of the first modern Olympic Games.",
+    "value": "$400",
+    "category": "Olympic Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1778",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Charlotte Cooper?",
+    "answer": "She was the first woman to win an Olympic gold medal in an individual event.",
+    "value": "$600",
+    "category": "Olympic Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1778",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the Chamonix Games?",
+    "answer": "These were the first Winter Olympic Games, held in 1924.",
+    "value": "$800",
+    "category": "Olympic Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1778",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is France?",
+    "answer": "This country held the first ever Winter Olympics, in 1924.",
+    "value": "$1000",
+    "category": "Olympic Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1778",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Michael Jordan?",
+    "answer": "This basketball Hall of Famer is known for his dominance in the 1980s, his rivalry with Larry Bird, and his fadeaway jumper.",
+    "value": "$200",
+    "category": "Sports \"Ball\" of Fame",
+    "air_date": "2025-01-26",
+    "show_number": "1825",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Hank Aaron?",
+    "answer": "This baseball Hall of Famer, nicknamed \"The Hammer,\" played for the New York Yankees and is known for his powerful hitting and charisma.",
+    "value": "$400",
+    "category": "Sports \"Ball\" of Fame",
+    "air_date": "2025-01-26",
+    "show_number": "1825",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Pel\u00e9?",
+    "answer": "This soccer Hall of Famer is considered one of the greatest players of all time and led his team to three World Cups.",
+    "value": "$600",
+    "category": "Sports \"Ball\" of Fame",
+    "air_date": "2025-01-26",
+    "show_number": "1825",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Jack Nicklaus?",
+    "answer": "This golfer, known for his distinctive putting style and numerous major championships, is a member of the World Golf Hall of Fame.",
+    "value": "$800",
+    "category": "Sports \"Ball\" of Fame",
+    "air_date": "2025-01-26",
+    "show_number": "1825",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Wayne Gretzky?",
+    "answer": "This Canadian hockey Hall of Famer, known as \"The Great One,\" is considered one of the greatest players in NHL history, famous for his scoring prowess and skill.",
+    "value": "$1000",
+    "category": "Sports \"Ball\" of Fame",
+    "air_date": "2025-01-26",
+    "show_number": "1825",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Pete Rose?",
+    "answer": "This player holds the MLB record for career hits.",
+    "value": "$200",
+    "category": "Baseball Records",
+    "air_date": "2025-01-26",
+    "show_number": "847",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Hank Aaron?",
+    "answer": "With 755 career home runs, this player holds the MLB record for most home runs.",
+    "value": "$400",
+    "category": "Baseball Records",
+    "air_date": "2025-01-26",
+    "show_number": "847",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Nolan Ryan?",
+    "answer": "This pitcher holds the MLB record for most career strikeouts.",
+    "value": "$600",
+    "category": "Baseball Records",
+    "air_date": "2025-01-26",
+    "show_number": "847",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Ted Williams?",
+    "answer": "In 1941, this player achieved the highest single-season batting average in MLB History.",
+    "value": "$800",
+    "category": "Baseball Records",
+    "air_date": "2025-01-26",
+    "show_number": "847",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who are the New York Yankees?",
+    "answer": "This team holds the MLB record for most consecutive World Series wins from 1949-1953.",
+    "value": "$1000",
+    "category": "Baseball Records",
+    "air_date": "2025-01-26",
+    "show_number": "847",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Chuck Forrest?",
+    "answer": "In 1979, he became the first player to win $100,000 on Jeopardy!",
+    "value": "$200",
+    "category": "Championship Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1897",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Mattea Roach?",
+    "answer": "This Jeopardy! contestant won over $77,000 in 2023, setting a new record for highest single-day winnings.",
+    "value": "$400",
+    "category": "Championship Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1897",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Ken Jennings?",
+    "answer": "In 2004, this contestant had a 74-game winning streak on Jeopardy!, earning over $2.5 million.",
+    "value": "$600",
+    "category": "Championship Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1897",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "How much is $2,462,216?",
+    "answer": "James Holzhauer's 32-game win streak in 2019 earned him this much money, though he didn't break Ken Jennings' record.",
+    "value": "$800",
+    "category": "Championship Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1897",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Mattea Roach?",
+    "answer": "This Jeopardy! champion, famous for his impressive buzzer speed, won a record 74 games in 2023, breaking Ken Jennings\u2019 record and making history.",
+    "value": "$1000",
+    "category": "Championship Moments",
+    "air_date": "2025-01-26",
+    "show_number": "1897",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Saturn's ring system?",
+    "answer": "This ring-shaped structure is home to Saturn's many moons.",
+    "value": "$200",
+    "category": "\"Ring\" Leaders",
+    "air_date": "2025-01-26",
+    "show_number": "1714",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who are the dwarves?",
+    "answer": "The leader of this group of beings, residing in Middle-earth's Mines of Moria, was Durin VI.",
+    "value": "$400",
+    "category": "\"Ring\" Leaders",
+    "air_date": "2025-01-26",
+    "show_number": "1714",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Ouroboros?",
+    "answer": "In Norse mythology, this ring represents the cycle of life and death.",
+    "value": "$600",
+    "category": "\"Ring\" Leaders",
+    "air_date": "2025-01-26",
+    "show_number": "1714",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Manny Pacquiao (The Ring King)?",
+    "answer": "This boxing champion's moniker is a reference to his ring prowess.",
+    "value": "$800",
+    "category": "\"Ring\" Leaders",
+    "air_date": "2025-01-26",
+    "show_number": "1714",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the One Ring?",
+    "answer": "This ring, from Tolkien's legendarium, holds immense power and was given to Isildur after the defeat of Sauron.",
+    "value": "$1000",
+    "category": "\"Ring\" Leaders",
+    "air_date": "2025-01-26",
+    "show_number": "1714",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This field of science explores the internal and external forces acting on the human body during movement.",
+    "answer": "What is biomechanics?",
+    "value": "$200",
+    "category": "Sports Science",
+    "air_date": "2025-01-26",
+    "show_number": "1390",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "The study of human movement from anatomical and physiological viewpoints is also known as this.",
+    "answer": "What is kinesiology?",
+    "value": "$400",
+    "category": "Sports Science",
+    "air_date": "2025-01-26",
+    "show_number": "1390",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Electromyography (EMG) is a technique used to measure this physiological process during exercise.",
+    "answer": "What is muscle activation?",
+    "value": "$600",
+    "category": "Sports Science",
+    "air_date": "2025-01-26",
+    "show_number": "1390",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Often considered the best measure of cardiorespiratory fitness, this is the maximum rate of oxygen consumption.",
+    "answer": "What is VO2 max?",
+    "value": "$800",
+    "category": "Sports Science",
+    "air_date": "2025-01-26",
+    "show_number": "1390",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Used to measure ground reaction forces, this piece of equipment helps researchers quantify aspects of jumping and running.",
+    "answer": "What is the force platform?",
+    "value": "$1000",
+    "category": "Sports Science",
+    "air_date": "2025-01-26",
+    "show_number": "1390",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Pel\u00e9?",
+    "answer": "This Brazilian scored 12 goals in the 1970 World Cup.",
+    "value": "$200",
+    "category": "World Cup Heroes",
+    "air_date": "2025-01-26",
+    "show_number": "549",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Diego Maradona?",
+    "answer": "In 1986, this Argentinian captain led his team to victory, scoring five goals and making the tournament's best plays.",
+    "value": "$400",
+    "category": "World Cup Heroes",
+    "air_date": "2025-01-26",
+    "show_number": "549",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Martin Peters?",
+    "answer": "This player scored the winning goal in the 1966 World Cup Final for England.",
+    "value": "$600",
+    "category": "World Cup Heroes",
+    "air_date": "2025-01-26",
+    "show_number": "549",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Roberto Baggio?",
+    "answer": "The first Italian to score 3 World Cup goals in a single match.",
+    "value": "$800",
+    "category": "World Cup Heroes",
+    "air_date": "2025-01-26",
+    "show_number": "549",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Gianluigi Buffon?",
+    "answer": "In 2006, this Italian goalkeeper was named the best player of the tournament.",
+    "value": "$1000",
+    "category": "World Cup Heroes",
+    "air_date": "2025-01-26",
+    "show_number": "549",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is the plaintiff?",
+    "answer": "This is the term for the person who initiates a lawsuit",
+    "value": "$200",
+    "category": "\"Court\" Proceedings",
+    "air_date": "2025-01-26",
+    "show_number": "912",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is an affidavit?",
+    "answer": "This is a sworn statement of fact used as evidence in court",
+    "value": "$400",
+    "category": "\"Court\" Proceedings",
+    "air_date": "2025-01-26",
+    "show_number": "912",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a preliminary hearing?",
+    "answer": "In this proceeding, a judge reviews evidence to determine if there is enough to go to trial",
+    "value": "$600",
+    "category": "\"Court\" Proceedings",
+    "air_date": "2025-01-26",
+    "show_number": "912",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is the defendant?",
+    "answer": "The person against whom a lawsuit is filed is called this",
+    "value": "$800",
+    "category": "\"Court\" Proceedings",
+    "air_date": "2025-01-26",
+    "show_number": "912",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is an appeal?",
+    "answer": "This is a formal request to a higher court to review a lower court's decision",
+    "value": "$1000",
+    "category": "\"Court\" Proceedings",
+    "air_date": "2025-01-26",
+    "show_number": "912",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the Edmonton Oilers?",
+    "answer": "This NHL team, led by  Wayne Gretzky, won four Stanley Cups in five years during the 1980s.",
+    "value": "$200",
+    "category": "Sports Dynasties",
+    "air_date": "2025-01-26",
+    "show_number": "114",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the Chicago Bulls?",
+    "answer": "This NBA team, featuring Michael Jordan, won six NBA championships in the 1990s.",
+    "value": "$400",
+    "category": "Sports Dynasties",
+    "air_date": "2025-01-26",
+    "show_number": "114",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the Green Bay Packers?",
+    "answer": "From 1949-1966, this NFL team won 8 NFL championships and 5 AFL championships.",
+    "value": "$600",
+    "category": "Sports Dynasties",
+    "air_date": "2025-01-26",
+    "show_number": "114",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the San Francisco Giants?",
+    "answer": "From 1960-1973, this MLB team, featuring Willie Mays and Hank Aaron, won 3 World Series titles.",
+    "value": "$800",
+    "category": "Sports Dynasties",
+    "air_date": "2025-01-26",
+    "show_number": "114",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the Alabama Crimson Tide?",
+    "answer": "This college football team, coached by Bear Bryant, won six national championships from 1961-1979.",
+    "value": "$1000",
+    "category": "Sports Dynasties",
+    "air_date": "2025-01-26",
+    "show_number": "114",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is France?",
+    "answer": "This Scandinavian country hosted the first Winter Olympics in 1924.",
+    "value": "$200",
+    "category": "Winter Olympics",
+    "air_date": "2025-01-26",
+    "show_number": "44",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is ice?",
+    "answer": "The sport of curling involves sliding stones on this surface.",
+    "value": "$400",
+    "category": "Winter Olympics",
+    "air_date": "2025-01-26",
+    "show_number": "44",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the Winter Olympics?",
+    "answer": "This event, held every four years, features winter sports competitions.",
+    "value": "$600",
+    "category": "Winter Olympics",
+    "air_date": "2025-01-26",
+    "show_number": "44",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are the US and France?",
+    "answer": "These two countries have hosted the Winter Olympics more than any other.",
+    "value": "$800",
+    "category": "Winter Olympics",
+    "air_date": "2025-01-26",
+    "show_number": "44",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is speed skating?",
+    "answer": "The first Winter Olympics included these five sports: cross-country skiing, figure skating, ice hockey, Nordic combined, and this.",
+    "value": "$1000",
+    "category": "Winter Olympics",
+    "air_date": "2025-01-26",
+    "show_number": "44",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Eric Dickerson?",
+    "answer": "In 1983, he became the first NFL player to rush for over 2,000 yards in a single season.",
+    "value": "$200",
+    "category": "NFL Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "1807",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Tom Brady?",
+    "answer": "In 2007, this quarterback threw a record-breaking 50 touchdown passes in a single season.",
+    "value": "$400",
+    "category": "NFL Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "1807",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is 1995?",
+    "answer": "In 1984, Dan Marino threw for 5,084 yards, setting a single-season passing yards record that stood for 11 seasons.  In what year was that record broken?",
+    "value": "$600",
+    "category": "NFL Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "1807",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Richard Dent?",
+    "answer": "This Chicago Bears linebacker holds the NFL record for most career sacks, with 189.",
+    "value": "$800",
+    "category": "NFL Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "1807",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Aaron Rodgers?",
+    "answer": "On September 27, 2009, this Green Bay Packers quarterback threw 7 touchdown passes in a single game against the Dallas Cowboys, setting a franchise record.",
+    "value": "$1000",
+    "category": "NFL Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "1807",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Tom Seaver?",
+    "answer": "This former child star's name is used for the field position in baseball where he played",
+    "value": "$200",
+    "category": "\"Field\" of Dreams",
+    "air_date": "2025-01-26",
+    "show_number": "826",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the circle?",
+    "answer": "This field hockey term refers to the area in front of the goal where only the goalkeeper can enter",
+    "value": "$400",
+    "category": "\"Field\" of Dreams",
+    "air_date": "2025-01-26",
+    "show_number": "826",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Field of Dreams?",
+    "answer": "In this 1989 film, Kevin Costner builds a baseball diamond in an Iowa cornfield.",
+    "value": "$600",
+    "category": "\"Field\" of Dreams",
+    "air_date": "2025-01-26",
+    "show_number": "826",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a farm?",
+    "answer": "This agricultural area provides a setting for many field sports",
+    "value": "$800",
+    "category": "\"Field\" of Dreams",
+    "air_date": "2025-01-26",
+    "show_number": "826",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a gridiron?",
+    "answer": "This kind of field is used in both American and Canadian football",
+    "value": "$1000",
+    "category": "\"Field\" of Dreams",
+    "air_date": "2025-01-26",
+    "show_number": "826",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This is the nickname for the Notre Dame University athletic teams.",
+    "answer": "The Fighting Irish",
+    "value": "$200",
+    "category": "Sports Nicknames",
+    "air_date": "2025-01-26",
+    "show_number": "1892",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This is the nickname for the University of North Carolina athletic teams.",
+    "answer": "The Tar Heels",
+    "value": "$400",
+    "category": "Sports Nicknames",
+    "air_date": "2025-01-26",
+    "show_number": "1892",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This is the nickname for the University of Alabama athletic teams.",
+    "answer": "The Crimson Tide",
+    "value": "$600",
+    "category": "Sports Nicknames",
+    "air_date": "2025-01-26",
+    "show_number": "1892",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This is the nickname for the University of Michigan athletic teams.",
+    "answer": "The Wolverines",
+    "value": "$800",
+    "category": "Sports Nicknames",
+    "air_date": "2025-01-26",
+    "show_number": "1892",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This is the nickname for the Ohio State University athletic teams.",
+    "answer": "The Buckeyes",
+    "value": "$1000",
+    "category": "Sports Nicknames",
+    "air_date": "2025-01-26",
+    "show_number": "1892",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Rod Laver?",
+    "answer": "This Laver",
+    "value": "$200",
+    "category": "Tennis Legends",
+    "air_date": "2025-01-26",
+    "show_number": "775",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Australia?",
+    "answer": "This country's player Margaret Court holds the all-time record for Grand Slam singles titles.",
+    "value": "$400",
+    "category": "Tennis Legends",
+    "air_date": "2025-01-26",
+    "show_number": "775",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Pete Sampras?",
+    "answer": "This American player, known for his powerful serve and volley game, won 17 Grand Slam singles titles.",
+    "value": "$600",
+    "category": "Tennis Legends",
+    "air_date": "2025-01-26",
+    "show_number": "775",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Martina Navratilova?",
+    "answer": "This legendary player, known for her grace and elegance, holds the record for most Wimbledon singles titles in the Open Era.",
+    "value": "$800",
+    "category": "Tennis Legends",
+    "air_date": "2025-01-26",
+    "show_number": "775",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Roger Federer?",
+    "answer": "This Swiss Maestro won 20 Grand Slam singles titles and is widely considered one of the greatest players of all time.",
+    "value": "$1000",
+    "category": "Tennis Legends",
+    "air_date": "2025-01-26",
+    "show_number": "775",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who are the Cincinnati Bengals?",
+    "answer": "This NFL team selected Joe Burrow first overall in the 2020 NFL Draft",
+    "value": "$200",
+    "category": "\"Draft\" Picks",
+    "air_date": "2025-01-26",
+    "show_number": "1394",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who are the Indianapolis Colts?",
+    "answer": "In 1998, this NFL team drafted Peyton Manning first overall",
+    "value": "$400",
+    "category": "\"Draft\" Picks",
+    "air_date": "2025-01-26",
+    "show_number": "1394",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Trevor Lawrence?",
+    "answer": "The first overall pick in the 2021 NFL draft, this quarterback was selected by the Jacksonville Jaguars",
+    "value": "$600",
+    "category": "\"Draft\" Picks",
+    "air_date": "2025-01-26",
+    "show_number": "1394",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Andrew Wiggins?",
+    "answer": "This NBA player was drafted first overall by the Cleveland Cavaliers in 2014",
+    "value": "$800",
+    "category": "\"Draft\" Picks",
+    "air_date": "2025-01-26",
+    "show_number": "1394",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who are the Houston Rockets?",
+    "answer": "In 1984, this NBA team drafted Hakeem Olajuwon first overall",
+    "value": "$1000",
+    "category": "\"Draft\" Picks",
+    "air_date": "2025-01-26",
+    "show_number": "1394",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Thomas Edison?",
+    "answer": "This American inventor is best known for his work on the incandescent light bulb and the phonograph.",
+    "value": "$200",
+    "category": "Tech Pioneers",
+    "air_date": "2025-01-26",
+    "show_number": "1029",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Alan Turing?",
+    "answer": "This British mathematician and computer scientist is considered to be one of the founding fathers of computer science and artificial intelligence.",
+    "value": "$400",
+    "category": "Tech Pioneers",
+    "air_date": "2025-01-26",
+    "show_number": "1029",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Vint Cerf?",
+    "answer": "This American computer scientist and internet pioneer is known as the \"father of the internet\".",
+    "value": "$600",
+    "category": "Tech Pioneers",
+    "air_date": "2025-01-26",
+    "show_number": "1029",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Steve Jobs?",
+    "answer": "This American entrepreneur and innovator co-founded Apple Inc. and revolutionized the personal computer industry.",
+    "value": "$800",
+    "category": "Tech Pioneers",
+    "air_date": "2025-01-26",
+    "show_number": "1029",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Tim Berners-Lee?",
+    "answer": "This American engineer and computer scientist co-created the World Wide Web.",
+    "value": "$1000",
+    "category": "Tech Pioneers",
+    "air_date": "2025-01-26",
+    "show_number": "1029",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a bit?",
+    "answer": "This is the smallest unit of data a computer can process.",
+    "value": "$200",
+    "category": "\"Byte\" Size Facts",
+    "air_date": "2025-01-26",
+    "show_number": "1924",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a byte?",
+    "answer": "A group of eight bits is this.",
+    "value": "$400",
+    "category": "\"Byte\" Size Facts",
+    "air_date": "2025-01-26",
+    "show_number": "1924",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is 1024?",
+    "answer": "This many bytes make up a kilobyte.",
+    "value": "$600",
+    "category": "\"Byte\" Size Facts",
+    "air_date": "2025-01-26",
+    "show_number": "1924",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is 1024?",
+    "answer": "A megabyte is this many kilobytes.",
+    "value": "$800",
+    "category": "\"Byte\" Size Facts",
+    "air_date": "2025-01-26",
+    "show_number": "1924",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is giga?",
+    "answer": "In the metric system, this prefix is used for 10^9 bytes.",
+    "value": "$1000",
+    "category": "\"Byte\" Size Facts",
+    "air_date": "2025-01-26",
+    "show_number": "1924",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Facebook?",
+    "answer": "This site, launched in 2004, let users connect with friends and family and share updates, marking a pivotal moment in social media's history.",
+    "value": "$200",
+    "category": "Social Media History",
+    "air_date": "2025-01-26",
+    "show_number": "1511",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is SixDegrees.com?",
+    "answer": "Before Facebook, this platform, founded in 1997, enabled users to create personal profiles and connect with others, establishing the foundation for modern social networking.",
+    "value": "$400",
+    "category": "Social Media History",
+    "air_date": "2025-01-26",
+    "show_number": "1511",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Flickr?",
+    "answer": "In 2006, this photo-sharing site emerged, allowing users to upload, tag, and share pictures, fundamentally changing how people documented and shared their lives online.",
+    "value": "$600",
+    "category": "Social Media History",
+    "air_date": "2025-01-26",
+    "show_number": "1511",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Twitter?",
+    "answer": "This microblogging platform, launched in 2006, revolutionized online communication by allowing users to share short, frequent updates, fostering real-time conversations and news.",
+    "value": "$800",
+    "category": "Social Media History",
+    "air_date": "2025-01-26",
+    "show_number": "1511",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Instagram?",
+    "answer": "This platform, launched in 2010, enabled the creation and sharing of short-form videos, establishing itself as a major force in social media and a global platform for content creation and entertainment.",
+    "value": "$1000",
+    "category": "Social Media History",
+    "air_date": "2025-01-26",
+    "show_number": "1511",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is C++?",
+    "answer": "This language, developed by Bjarne Stroustrup, is an extension of C and is known for its object-oriented features.",
+    "value": "$200",
+    "category": "\"Computer\" Language Arts",
+    "air_date": "2025-01-26",
+    "show_number": "226",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "Often used for web development, this language's name is a play on words relating to the server-side and client-side.",
+    "value": "$400",
+    "category": "\"Computer\" Language Arts",
+    "air_date": "2025-01-26",
+    "show_number": "226",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Created by Guido van Rossum, this language emphasizes code readability with its use of significant indentation.",
+    "value": "$600",
+    "category": "\"Computer\" Language Arts",
+    "air_date": "2025-01-26",
+    "show_number": "226",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is R?",
+    "answer": "Known for its use in functional programming and its concise syntax, this language is often used in data science and machine learning.",
+    "value": "$800",
+    "category": "\"Computer\" Language Arts",
+    "air_date": "2025-01-26",
+    "show_number": "226",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is C?",
+    "answer": "This compiled language is known for its speed and efficiency, making it popular for system programming and game development.",
+    "value": "$1000",
+    "category": "\"Computer\" Language Arts",
+    "air_date": "2025-01-26",
+    "show_number": "226",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Apple?",
+    "answer": "This company, founded in a garage, became a global tech giant known for its personal computers.",
+    "value": "$200",
+    "category": "Silicon Valley Stories",
+    "air_date": "2025-01-26",
+    "show_number": "598",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Facebook?",
+    "answer": "This social networking site, initially for Harvard students, revolutionized online communication.",
+    "value": "$400",
+    "category": "Silicon Valley Stories",
+    "air_date": "2025-01-26",
+    "show_number": "598",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Google?",
+    "answer": "This search engine, initially called \"BackRub\", went on to become the world's most popular search engine.",
+    "value": "$600",
+    "category": "Silicon Valley Stories",
+    "air_date": "2025-01-26",
+    "show_number": "598",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Tesla?",
+    "answer": "This innovative company, known for its electric vehicles and clean energy initiatives, is led by Elon Musk.",
+    "value": "$800",
+    "category": "Silicon Valley Stories",
+    "air_date": "2025-01-26",
+    "show_number": "598",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is YouTube?",
+    "answer": "This video-sharing platform, initially focused on short video clips, grew into a global media powerhouse.",
+    "value": "$1000",
+    "category": "Silicon Valley Stories",
+    "air_date": "2025-01-26",
+    "show_number": "598",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is net worth?",
+    "answer": "This term refers to the total value of a company's assets minus its liabilities.",
+    "value": "$200",
+    "category": "\"Net\" Worth",
+    "air_date": "2025-01-26",
+    "show_number": "1208",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is net worth?",
+    "answer": "For individuals, this is often the difference between assets like a house and car and liabilities like a mortgage and loans.",
+    "value": "$400",
+    "category": "\"Net\" Worth",
+    "air_date": "2025-01-26",
+    "show_number": "1208",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is net worth?",
+    "answer": "Calculating this for a business requires careful accounting and may involve complex valuations of intangible assets.",
+    "value": "$600",
+    "category": "\"Net\" Worth",
+    "air_date": "2025-01-26",
+    "show_number": "1208",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is net worth?",
+    "answer": "A significant increase in this can be an indicator of financial health, but it's essential to also consider profitability and cash flow.",
+    "value": "$800",
+    "category": "\"Net\" Worth",
+    "air_date": "2025-01-26",
+    "show_number": "1208",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is net worth?",
+    "answer": "Factors such as market fluctuations, debt levels, and investment performance can all significantly impact this metric.",
+    "value": "$1000",
+    "category": "\"Net\" Worth",
+    "air_date": "2025-01-26",
+    "show_number": "1208",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Pong?",
+    "answer": "This groundbreaking 1972 arcade game, featuring simple graphics and a memorable ping-pong-like action, is considered by many to be the first true video game.",
+    "value": "$200",
+    "category": "Gaming Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "99",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Asteroids?",
+    "answer": "Released in 1980 for the Atari 2600, this space-shooter became an iconic game, known for its challenging difficulty and simple but compelling gameplay.",
+    "value": "$400",
+    "category": "Gaming Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "99",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Super Mario Bros.?",
+    "answer": "This 1985 Nintendo game introduced the world to a mustachioed plumber and a princess-saving quest, revolutionizing the platformer genre.",
+    "value": "$600",
+    "category": "Gaming Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "99",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Doom?",
+    "answer": "In 1993, this game launched the first-person shooter genre to incredible heights, setting new standards for immersive gameplay and 3D graphics.",
+    "value": "$800",
+    "category": "Gaming Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "99",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Grand Theft Auto IV?",
+    "answer": "This 2008 release introduced the world to an open-world, action-adventure experience with unprecedented freedom and gameplay possibilities, changing how players interact with games.",
+    "value": "$1000",
+    "category": "Gaming Milestones",
+    "air_date": "2025-01-26",
+    "show_number": "99",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the SQL Slammer worm?",
+    "answer": "This worm, unleashed in 2003, crippled thousands of computers by slowing their performance and sending spam.",
+    "value": "$200",
+    "category": "\"Cyber\" Space",
+    "air_date": "2025-01-26",
+    "show_number": "64",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is phishing?",
+    "answer": "This type of cyberattack uses deceptive emails or websites to trick victims into revealing sensitive information.",
+    "value": "$400",
+    "category": "\"Cyber\" Space",
+    "air_date": "2025-01-26",
+    "show_number": "64",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Robert Morris?",
+    "answer": "In 1988, this computer scientist unleashed the Morris Worm, one of the first internet worms.",
+    "value": "$600",
+    "category": "\"Cyber\" Space",
+    "air_date": "2025-01-26",
+    "show_number": "64",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is ransomware?",
+    "answer": "This is a type of malware that encrypts your files and demands a ransom for their release.",
+    "value": "$800",
+    "category": "\"Cyber\" Space",
+    "air_date": "2025-01-26",
+    "show_number": "64",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is SSL/TLS?",
+    "answer": "This protocol, developed in the early 1970s, is used to secure communications over a computer network.",
+    "value": "$1000",
+    "category": "\"Cyber\" Space",
+    "air_date": "2025-01-26",
+    "show_number": "64",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This IBM supercomputer famously beat Garry Kasparov at chess in 1997, marking a milestone in AI.",
+    "answer": "Deep Blue",
+    "value": "$200",
+    "category": "AI Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "473",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Developed by Google DeepMind, this AI program defeated a world champion Go player in 2016, a feat once considered decades away.",
+    "answer": "AlphaGo",
+    "value": "$400",
+    "category": "AI Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "473",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This large visual database of images was crucial in the advancement of deep learning and computer vision, significantly improving object recognition.",
+    "answer": "ImageNet",
+    "value": "$600",
+    "category": "AI Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "473",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Released in 2020, this autoregressive language model is known for its ability to generate human-quality text, translating languages, and writing different kinds of creative content.",
+    "answer": "GPT-3",
+    "value": "$800",
+    "category": "AI Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "473",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This DeepMind AI system predicted the 3D structures of proteins with remarkable accuracy, revolutionizing the field of biology and drug discovery.",
+    "answer": "AlphaFold",
+    "value": "$1000",
+    "category": "AI Breakthroughs",
+    "air_date": "2025-01-26",
+    "show_number": "473",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a password?",
+    "answer": "This keeps your digital life secure, and is often a complex series of letters and numbers.",
+    "value": "$200",
+    "category": "Digital \"Keys\" to Success",
+    "air_date": "2025-01-26",
+    "show_number": "91",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are verification codes?",
+    "answer": "These unique identifiers are used to log into many online services, and are often sent to your email address.",
+    "value": "$400",
+    "category": "Digital \"Keys\" to Success",
+    "air_date": "2025-01-26",
+    "show_number": "91",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is two-factor authentication?",
+    "answer": "This multi-factor authentication method uses your phone or another device to verify your identity.",
+    "value": "$600",
+    "category": "Digital \"Keys\" to Success",
+    "air_date": "2025-01-26",
+    "show_number": "91",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are cryptographic keys?",
+    "answer": "These digital keys are becoming increasingly common for securing your computer and online accounts, providing stronger security than passwords.",
+    "value": "$800",
+    "category": "Digital \"Keys\" to Success",
+    "air_date": "2025-01-26",
+    "show_number": "91",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a private key?",
+    "answer": "Used by companies to encrypt and decrypt sensitive information, this key's protection is paramount to data security.  Its compromise can have catastrophic consequences.",
+    "value": "$1000",
+    "category": "Digital \"Keys\" to Success",
+    "air_date": "2025-01-26",
+    "show_number": "91",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Windows Vista?",
+    "answer": "This operating system, released in 2007, was plagued with compatibility issues and ultimately considered a failure.",
+    "value": "$200",
+    "category": "Tech Fails",
+    "air_date": "2025-01-26",
+    "show_number": "1768",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Apple Macintosh?",
+    "answer": "In 1985, this new computer, considered ahead of its time, flopped in the market due to its high price and limited software.",
+    "value": "$400",
+    "category": "Tech Fails",
+    "air_date": "2025-01-26",
+    "show_number": "1768",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Google+",
+    "answer": "This social media platform, launched in 2012, failed to gain traction and was shut down within a year.",
+    "value": "$600",
+    "category": "Tech Fails",
+    "air_date": "2025-01-26",
+    "show_number": "1768",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Amazon Fire Phone?",
+    "answer": "Despite being backed by a tech giant, this smartphone, released in 2017, was deemed a failure because of its high price point and limited appeal.",
+    "value": "$800",
+    "category": "Tech Fails",
+    "air_date": "2025-01-26",
+    "show_number": "1768",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the Google Glass?",
+    "answer": "This much-hyped product from a major tech company was criticized for its high price, limited features, and slow performance. ",
+    "value": "$1000",
+    "category": "Tech Fails",
+    "air_date": "2025-01-26",
+    "show_number": "1768",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is quantitative data?",
+    "answer": "This type of data comprises numbers that can be measured objectively.",
+    "value": "$200",
+    "category": "\"Data\" Day Problems",
+    "air_date": "2025-01-26",
+    "show_number": "782",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is qualitative data?",
+    "answer": "This kind of data can be categorized into groups or labels.",
+    "value": "$400",
+    "category": "\"Data\" Day Problems",
+    "air_date": "2025-01-26",
+    "show_number": "782",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a data point?",
+    "answer": "In data analysis, this refers to a single observation or piece of information.",
+    "value": "$600",
+    "category": "\"Data\" Day Problems",
+    "air_date": "2025-01-26",
+    "show_number": "782",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a bar chart?",
+    "answer": "This visual representation of data uses bars to compare different categories.",
+    "value": "$800",
+    "category": "\"Data\" Day Problems",
+    "air_date": "2025-01-26",
+    "show_number": "782",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the mean?",
+    "answer": "This is the average of a dataset, calculated by summing all values and dividing by the count of values.",
+    "value": "$1000",
+    "category": "\"Data\" Day Problems",
+    "air_date": "2025-01-26",
+    "show_number": "782",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Apple?",
+    "answer": "This company's start-up story involves a garage and a now-famous apple logo.",
+    "value": "$200",
+    "category": "Start-Up Stories",
+    "air_date": "2025-01-26",
+    "show_number": "201",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Amazon?",
+    "answer": "This online retailer started in a garage, and its business model revolutionized e-commerce.",
+    "value": "$400",
+    "category": "Start-Up Stories",
+    "air_date": "2025-01-26",
+    "show_number": "201",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Facebook?",
+    "answer": "This social media platform was initially a way for college students to connect; now it's a global phenomenon.",
+    "value": "$600",
+    "category": "Start-Up Stories",
+    "air_date": "2025-01-26",
+    "show_number": "201",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Uber?",
+    "answer": "This ride-sharing service faced many regulatory hurdles in its early days, but it changed the way people get around.",
+    "value": "$800",
+    "category": "Start-Up Stories",
+    "air_date": "2025-01-26",
+    "show_number": "201",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Tesla?",
+    "answer": "This electric car company was founded with the goal of accelerating the world's transition to sustainable energy. Its early days involved numerous setbacks and near-bankruptcies.",
+    "value": "$1000",
+    "category": "Start-Up Stories",
+    "air_date": "2025-01-26",
+    "show_number": "201",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "This type of cloud is known for bringing rain or snow.",
+    "answer": "Nimbus",
+    "value": "$200",
+    "category": "\"Cloud\" Cover",
+    "air_date": "2025-01-26",
+    "show_number": "758",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "These clouds are flat, gray, and cover the sky, often bringing light rain or drizzle.",
+    "answer": "Stratus",
+    "value": "$400",
+    "category": "\"Cloud\" Cover",
+    "air_date": "2025-01-26",
+    "show_number": "758",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "These towering clouds are associated with thunderstorms and heavy precipitation.",
+    "answer": "Cumulonimbus",
+    "value": "$600",
+    "category": "\"Cloud\" Cover",
+    "air_date": "2025-01-26",
+    "show_number": "758",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Wispy, feathery clouds found at high altitudes, made of ice crystals.",
+    "answer": "Cirrus",
+    "value": "$800",
+    "category": "\"Cloud\" Cover",
+    "air_date": "2025-01-26",
+    "show_number": "758",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "These mid-level clouds are gray or bluish, often covering the entire sky and reducing sunlight.",
+    "answer": "Altostratus",
+    "value": "$1000",
+    "category": "\"Cloud\" Cover",
+    "air_date": "2025-01-26",
+    "show_number": "758",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Wikipedia?",
+    "answer": "This online encyclopedia, launched in 2001, is known for its collaborative creation and open-source nature.",
+    "value": "$200",
+    "category": "Internet Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1322",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "Who is Tim Berners-Lee?",
+    "answer": "In 1991, this British physicist is credited with inventing the World Wide Web.",
+    "value": "$400",
+    "category": "Internet Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1322",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is eBay?",
+    "answer": "This online marketplace, founded in 1995, revolutionized e-commerce and online auctions.",
+    "value": "$600",
+    "category": "Internet Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1322",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Facebook?",
+    "answer": "This social networking site, launched in 2004, connects people through profiles, updates, and photos.",
+    "value": "$800",
+    "category": "Internet Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1322",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is ARPANET?",
+    "answer": "In 1971, this pioneering network, developed by the US Department of Defense, laid the groundwork for the modern internet.",
+    "value": "$1000",
+    "category": "Internet Firsts",
+    "air_date": "2025-01-26",
+    "show_number": "1322",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a 'NullPointerException'?",
+    "answer": "This is a common error message in many programming languages, indicating that a variable is used before it has been assigned a value.",
+    "value": "$200",
+    "category": "\"Code\" Red",
+    "air_date": "2025-01-26",
+    "show_number": "128",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a 'break' statement?",
+    "answer": "In many programming languages, this statement is used to stop the execution of a loop prematurely.",
+    "value": "$400",
+    "category": "\"Code\" Red",
+    "air_date": "2025-01-26",
+    "show_number": "128",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a 'compile-time error'?",
+    "answer": "This type of error prevents a program from compiling or running, often due to syntax mistakes.",
+    "value": "$600",
+    "category": "\"Code\" Red",
+    "air_date": "2025-01-26",
+    "show_number": "128",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is recursion?",
+    "answer": "This is a programming technique where a function calls itself, often used in recursive algorithms.",
+    "value": "$800",
+    "category": "\"Code\" Red",
+    "air_date": "2025-01-26",
+    "show_number": "128",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a 'runtime error'?",
+    "answer": "This type of error occurs during the execution of a program, often caused by unexpected input or logic errors, and may result in a program crash.",
+    "value": "$1000",
+    "category": "\"Code\" Red",
+    "air_date": "2025-01-26",
+    "show_number": "128",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is the iPhone?",
+    "answer": "This device, originally released in 2007, revolutionized mobile communication and apps.",
+    "value": "$200",
+    "category": "Mobile Moments",
+    "air_date": "2025-01-26",
+    "show_number": "886",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Android?",
+    "answer": "This operating system, known for its green robot logo, powers a majority of smartphones globally.",
+    "value": "$400",
+    "category": "Mobile Moments",
+    "air_date": "2025-01-26",
+    "show_number": "886",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are mobile apps?",
+    "answer": "The term for the small, rectangular components that allow you to easily and intuitively control your smartphone and apps.",
+    "value": "$600",
+    "category": "Mobile Moments",
+    "air_date": "2025-01-26",
+    "show_number": "886",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Square?",
+    "answer": "In 2010, this company launched a mobile payment system that changed how we buy things with our phones.",
+    "value": "$800",
+    "category": "Mobile Moments",
+    "air_date": "2025-01-26",
+    "show_number": "886",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is NFC (Near Field Communication)?",
+    "answer": "This innovative technology uses short-range wireless communication to transfer data between devices, often used for mobile payments and data sharing.",
+    "value": "$1000",
+    "category": "Mobile Moments",
+    "air_date": "2025-01-26",
+    "show_number": "886",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Apple?",
+    "answer": "This company's stock price soared after the release of its latest iPhone.",
+    "value": "$200",
+    "category": "Hardware Headlines",
+    "air_date": "2025-01-26",
+    "show_number": "638",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Samsung?",
+    "answer": "This tech giant unveiled its newest foldable phone to much fanfare.",
+    "value": "$400",
+    "category": "Hardware Headlines",
+    "air_date": "2025-01-26",
+    "show_number": "638",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are semiconductors?",
+    "answer": "Concerns about a global shortage of this crucial component impacted production of many electronics.",
+    "value": "$600",
+    "category": "Hardware Headlines",
+    "air_date": "2025-01-26",
+    "show_number": "638",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are computer processors?",
+    "answer": "The race to develop more efficient and powerful versions of this hardware component is fierce among tech companies.",
+    "value": "$800",
+    "category": "Hardware Headlines",
+    "air_date": "2025-01-26",
+    "show_number": "638",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is Tesla (or a similar company)?",
+    "answer": "This company recently announced a major breakthrough in battery technology, promising longer-lasting devices.",
+    "value": "$1000",
+    "category": "Hardware Headlines",
+    "air_date": "2025-01-26",
+    "show_number": "638",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is HTTP?",
+    "answer": "This network protocol, essential for the Web, uses port 80 by default.",
+    "value": "$200",
+    "category": "\"Web\" of Intrigue",
+    "air_date": "2025-01-26",
+    "show_number": "397",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is HTML?",
+    "answer": "The W3C oversees standards for this, the foundation of web pages.",
+    "value": "$400",
+    "category": "\"Web\" of Intrigue",
+    "air_date": "2025-01-26",
+    "show_number": "397",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "This programming language, known for its dynamic nature, is widely used for web development.",
+    "value": "$600",
+    "category": "\"Web\" of Intrigue",
+    "air_date": "2025-01-26",
+    "show_number": "397",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is AJAX?",
+    "answer": "This technology allows web applications to run without constant server communication, enhancing responsiveness.",
+    "value": "$800",
+    "category": "\"Web\" of Intrigue",
+    "air_date": "2025-01-26",
+    "show_number": "397",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is HTTPS?",
+    "answer": "This system, often used with HTTP, encrypts communication between a client and a server.",
+    "value": "$1000",
+    "category": "\"Web\" of Intrigue",
+    "air_date": "2025-01-26",
+    "show_number": "397",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a personality test?",
+    "answer": "This seemingly innocent online quiz might actually be collecting your personal data.",
+    "value": "$200",
+    "category": "Digital Privacy",
+    "air_date": "2025-01-26",
+    "show_number": "261",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What are cookies?",
+    "answer": "Websites use these to track your online activity, often without your explicit consent.",
+    "value": "$400",
+    "category": "Digital Privacy",
+    "air_date": "2025-01-26",
+    "show_number": "261",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is GDPR?",
+    "answer": "This European Union regulation aims to give individuals more control over their personal data.",
+    "value": "$600",
+    "category": "Digital Privacy",
+    "air_date": "2025-01-26",
+    "show_number": "261",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a keylogger?",
+    "answer": "This type of malware can secretly record your keystrokes, stealing sensitive information like passwords and credit card numbers.",
+    "value": "$800",
+    "category": "Digital Privacy",
+    "air_date": "2025-01-26",
+    "show_number": "261",
+    "round": "Jeopardy!"
+  },
+  {
+    "question": "What is a password?",
+    "answer": "A strong one of these, using a mix of uppercase, lowercase, numbers, and symbols, is crucial for online security.",
+    "value": "$1000",
+    "category": "Digital Privacy",
+    "air_date": "2025-01-26",
+    "show_number": "261",
+    "round": "Jeopardy!"
+  }
+]

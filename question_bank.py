@@ -1,4 +1,5 @@
 import json
+import os
 import re
 from collections import defaultdict
 
@@ -7,7 +8,7 @@ from models import Clue
 
 QuestionSet = list[Clue]
 
-_JEOPARDY_DATA = "data/jeopardy.json"
+_DEFAULT_JEOPARDY_DATASET_PATH = "data/jeopardy.json"
 _NUM_QUESTIONS_PER_CATEGORY = 5
 
 
@@ -37,7 +38,8 @@ def _load_raw_data() -> QuestionSet:
     "show_number": "4680"
   }
   """
-  with open(_JEOPARDY_DATA, "r") as f:
+  file_path = os.getenv("JEOPARDY_DATASET_PATH", _DEFAULT_JEOPARDY_DATASET_PATH)
+  with open(file_path, "r") as f:
     return [Clue(**row) for row in json.load(f)]
 
 

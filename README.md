@@ -58,6 +58,28 @@ like this
 }
 ```
 
+### LLM Generated questions
+
+You can also use LLMs to generate a question set using `scripts/generate_clues.py`. It
+will generate a file called `sample_data/custom_jeopardy.json`.
+
+Here is a basic example using some LLM-generated categories that I copy and pasted into
+`scripts/categories.txt`. The script is a bit slow since it generates questions for one
+category at a time and throttles itself to 15 RPM to stay within the limits of Gemini
+1.5 Flash. A future improvement could be to generate batches of questions.
+
+```
+cd scripts
+python generate_clues.py --file categories.txt --dataset ../data/custom_jeopardy.json --overwrite
+```
+
+If you're using a custom dataset, you can an environment variable to specify the
+location of the file.
+
+```
+JEOPARDY_DATASET_PATH=data/custom_jeopardy.json
+```
+
 ## Screenshots
 
 Here are some screenshots of the UI.
@@ -69,4 +91,3 @@ Here are some screenshots of the UI.
 ### Jeopardy answer
 
 <img width="1312" alt="Screenshot 2025-01-26 at 2 04 05 PM" src="https://github.com/user-attachments/assets/97d704e1-6df6-4a05-8a77-8e91363295fa" />
-
