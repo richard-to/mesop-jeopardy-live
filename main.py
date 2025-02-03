@@ -321,7 +321,6 @@ def handle_tool_calls(e: mel.WebEvent):
   """
   state = me.state(State)
   tool_calls = json.loads(e.value["toolCalls"])
-  print(tool_calls)
   responses = []
   for tool_call in tool_calls:
     result = None
@@ -342,7 +341,6 @@ def handle_tool_calls(e: mel.WebEvent):
     )
 
   if responses:
-    print(responses)
     state.tool_call_responses = json.dumps(responses)
 
 
