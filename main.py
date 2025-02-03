@@ -1,8 +1,5 @@
-from typing import Any
 import json
 import time
-
-from pydantic import BaseModel
 
 import css
 import trebek_bot
@@ -15,20 +12,27 @@ from web_components.audio_player import audio_player
 from state import State
 
 
-class PydanticJSONEncoder(json.JSONEncoder):
-  def default(self, obj: Any) -> Any:
-    if isinstance(obj, BaseModel):
-      return obj.model_dump()
-    return super().default(obj)
-
-
 def on_load(e: me.LoadEvent):
   """Update system instructions with the randomly selected game categories."""
   state = me.state(State)
-  categories = [question_set[0].category for question_set in state.board.clues]
+
+  formatted_clues = []
+  for clue_category in state.board.clues:
+    formatted_clue_category = []
+    for clue in clue_category:
+      formatted_clue_category.append(
+        {
+          "category": clue.category,
+          "value": clue.normalized_value,
+          "clue": clue.question,
+          "answer": clue.answer,
+        }
+      )
+    formatted_clues.append(formatted_clue_category)
+
   state.gemini_live_api_config = trebek_bot.make_gemini_live_api_config(
     system_instructions=trebek_bot.make_system_instruction(
-      categories, json.dumps(state.board.clues, cls=PydanticJSONEncoder, indent=2, sort_keys=True)
+      json.dumps(formatted_clues, indent=2, sort_keys=True)
     )
   )
 
@@ -325,6 +329,7 @@ def handle_tool_calls(e: mel.WebEvent):
       result = tool_call_get_clue(
         tool_call["args"]["category_index"], tool_call["args"]["dollar_index"]
       )
+      result = True  # For now just return true due to buggy behavior
     elif tool_call["name"] == "update_score":
       result = tool_call_update_score(tool_call["args"]["is_correct"])
 
@@ -332,13 +337,12 @@ def handle_tool_calls(e: mel.WebEvent):
       {
         "id": tool_call["id"],
         "name": tool_call["name"],
-        "response": {
-          "result": result,
-        },
+        "response": {"result": result},
       }
     )
 
   if responses:
+    print(responses)
     state.tool_call_responses = json.dumps(responses)
 
 
