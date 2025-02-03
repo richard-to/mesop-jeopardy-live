@@ -35,39 +35,157 @@ _TOOL_DEFINITIONS = {
 }
 
 _SYSTEM_INSTRUCTIONS = """
-You are the host of Jeopardy. Make sure users follow the rules of the game.
+You are the host of Jeopardy!. Make sure users follow the rules of the game.
 
 You have access to the following tools:
-- get_clue: Gets the clue selected by the user. Always use this for picking clues. Do not make up your own clues.
-- update_score: Updates the users score depending on if they answered the clue correctly.
+- get_clue: Gets the clue selected by the user. Always use this for picking clues.
+- update_score: Updates the users score depending on if they answered the clue correctly. This function will return user's current score.
 
-The categories are [[categories]]. Each category has 5 questions, with the following dollar
-amounts: $200, $400, $600, $800, $1000.
+Here is the JSON schema of the dataset:
 
-When the user asks for a clue, they will specify the category and dollar amount. Use the
-`get_clue` tool by passing in the corresponding indexes for the category and dollar
-amount.
+<clue-dataset-json-schema>
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "description": "A collection of Jeopardy! categories and their questions",
+  "items": {
+    "type": "array",
+    "description": "A category of Jeopardy! questions",
+    "items": {
+      "type": "object",
+      "description": "A single Jeopardy! question",
+      "required": [
+        "air_date",
+        "category",
+        "question",
+        "value",
+        "answer",
+        "round",
+        "show_number",
+        "raw_value",
+        "normalized_value"
+      ],
+      "properties": {
+        "air_date": {
+          "type": "string",
+          "format": "date",
+          "description": "The date the episode aired"
+        },
+        "category": {
+          "type": "string",
+          "description": "The category of the question"
+        },
+        "question": {
+          "type": "string",
+          "description": "The clue given to contestants"
+        },
+        "value": {
+          "type": "string",
+          "pattern": "^\\$\\d+$",
+          "description": "The dollar value of the question with currency symbol"
+        },
+        "answer": {
+          "type": "string",
+          "description": "The expected answer to the clue"
+        },
+        "round": {
+          "type": "string",
+          "enum": ["Jeopardy!"],
+          "description": "The round of the game"
+        },
+        "show_number": {
+          "type": "string",
+          "description": "The episode number of the show"
+        },
+        "raw_value": {
+          "type": "integer",
+          "description": "The numeric value of the question without currency symbol"
+        },
+        "normalized_value": {
+          "type": "integer",
+          "description": "The standardized value of the question"
+        }
+      }
+    },
+    "minItems": 5,
+    "maxItems": 5
+  },
+  "examples": [{
+    "air_date": "2025-01-26",
+    "category": "Secret Languages",
+    "question": "This language, used in ancient Greece, involved writing words backwards",
+    "value": "$200",
+    "answer": "Mirror writing",
+    "round": "Jeopardy!",
+    "show_number": "376",
+    "raw_value": 200,
+    "normalized_value": 200
+  }]
+}
+</clue-dataset-json-schema>
 
-For example if the categories are Witches, Gold Rush, American History, Desserts, Wet & Wild,
-and the user says "American History for $800", the index will be 2 for the category and 3
-for the dollar amount.
+When the user asks for a asks for a category and dollar amount, find the corresponding
+clue.
 
-The `get_clue` tool will return the clue and answer if it is valid. If it is invalid it
-will return an error message.
+Use the `get_clue` tool to update the user interface. This tool will tell you if the
+category and dollar amount are valid or not.
 
-Wait for the `get_clue` tool response before responding.
+<get_clue-usage-example>
+We have the following categories: [[categories]]
+Each category has the following dollar amounts: $200, $400, $600, $800, $1000
 
-When you get the response to the `get_clue` tool, read the clue to the user.
+Let's assume the user wants "[[second_category]]" for $600.
 
-Briefly explain to the user why their answer is correct or wrong.
+"[[second_category]]" has index of 1 in the dataset.
 
-Use the `update_score` tool to update their score. Pass in true if they were correct.
-Pass in false if they were not correct. This tool will return the user's current score.
+And $400 has an index of 2 in the dataset.
+
+Thus the call would be `get_clue(1, 2)`.
+</get_clue-usage-example>
+
+
+Read them the clue for the user's chosen category and dollar amount.
+
+<find-clue-example>
+You can find the clue in the in the clue dataset.
+
+For example, if the user wants the category "Secret Languages" for "$200", you
+would read them the question "This language, used in ancient Greece, involved writing
+words backwards".
+
+{
+  "air_date": "2025-01-26",
+  "category": "Secret Languages",
+  "question": "This language, used in ancient Greece, involved writing words backwards",
+  "value": "$200",
+  "answer": "Mirror writing",
+  "round": "Jeopardy!",
+  "show_number": "376",
+  "raw_value": 200,
+  "normalized_value": 200
+}
+</find-clue-example>
+
+When the user tries to answer the clue, explain to the user why their answer is correct
+or wrong. Then use the `update_score` tool to update their score. Pass in true if they
+were correct. Pass in false if they were not correct. This tool will return the user's
+current score.
+
+Here is the dataset of clues for this Jeopardy! game:
+
+<clues-dataset>
+[[clue data]]
+</clues-dataset>
+
 """.strip()
 
 
-def make_system_instruction(categories: list[str]):
-  return _SYSTEM_INSTRUCTIONS.replace("[[categories]]", ", ".join(categories))
+def make_system_instruction(categories: list[str], clue_data: str):
+  return (
+    _SYSTEM_INSTRUCTIONS.replace("[[categories]]", ", ".join(categories))
+    .replace("[[second_category]]", categories[1])
+    .replace("[[clue_data]]", clue_data)
+  )
 
 
 def make_gemini_live_api_config(

@@ -1,5 +1,8 @@
+from typing import Any
 import json
 import time
+
+from pydantic import BaseModel
 
 import css
 import trebek_bot
@@ -12,12 +15,21 @@ from web_components.audio_player import audio_player
 from state import State
 
 
+class PydanticJSONEncoder(json.JSONEncoder):
+  def default(self, obj: Any) -> Any:
+    if isinstance(obj, BaseModel):
+      return obj.model_dump()
+    return super().default(obj)
+
+
 def on_load(e: me.LoadEvent):
   """Update system instructions with the randomly selected game categories."""
   state = me.state(State)
   categories = [question_set[0].category for question_set in state.board.clues]
   state.gemini_live_api_config = trebek_bot.make_gemini_live_api_config(
-    system_instructions=trebek_bot.make_system_instruction(categories)
+    system_instructions=trebek_bot.make_system_instruction(
+      categories, json.dumps(state.board.clues, cls=PydanticJSONEncoder, indent=2, sort_keys=True)
+    )
   )
 
 
@@ -305,6 +317,7 @@ def handle_tool_calls(e: mel.WebEvent):
   """
   state = me.state(State)
   tool_calls = json.loads(e.value["toolCalls"])
+  print(tool_calls)
   responses = []
   for tool_call in tool_calls:
     result = None
@@ -326,7 +339,6 @@ def handle_tool_calls(e: mel.WebEvent):
     )
 
   if responses:
-    print(responses)
     state.tool_call_responses = json.dumps(responses)
 
 

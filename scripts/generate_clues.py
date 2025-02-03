@@ -23,7 +23,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 
 
 class JeopardyQuestion(typing.TypedDict):
-  question: str
+  clue: str
   answer: str
   value: str
 
@@ -130,7 +130,7 @@ def generate_questions_by_category(category) -> list[dict[str, str]]:
   for question in questions:
     questions_list.append(
       {
-        "question": question["question"],
+        "question": question["clue"],
         "answer": question["answer"],
         "value": question["value"],
         "category": category,
